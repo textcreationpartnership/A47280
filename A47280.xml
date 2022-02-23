@@ -1,0 +1,1796 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The sober conformists answer to a rigid conformists reasons why in this juncture no alteration should be made in the government of the Church of Scotland.</title>
+            <author>Ker, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 87 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47280</idno>
+            <idno type="STC">Wing K346</idno>
+            <idno type="STC">ESTC R8036</idno>
+            <idno type="EEBO-CITATION">12710074</idno>
+            <idno type="OCLC">ocm 12710074</idno>
+            <idno type="VID">66087</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47280)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 66087)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 816:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The sober conformists answer to a rigid conformists reasons why in this juncture no alteration should be made in the government of the Church of Scotland.</title>
+                  <author>Ker, William.</author>
+               </titleStmt>
+               <extent>30 p.   </extent>
+               <publicationStmt>
+                  <publisher>Published by a Lover of Peace and Truth,</publisher>
+                  <pubPlace>[S.l.] :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+                  <note>Attributed to William Ker. cf. Wing.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:66087:1"/>
+            <pb facs="tcp:66087:1" rendition="simple:additions"/>
+            <p>THE SOBER CONFORMISTS ANSWER TO A RIGID CONFORMISTS REASONS.
+Why
+in this Juncture no Alteration ſhould be made in the GOVERNMENT of the
+CHURCH
+of SCOTLAND.</p>
+            <q>
+               <bibl>Prov. 26.4.</bibl>
+               <p>Anſwer not a Fool according to his folly, leſt thou alſo be
+like unto him.</p>
+            </q>
+            <q>
+               <bibl>Verſe 5.</bibl>
+               <p>Anſwer a Fool according to his folly, leſt he be wiſe in his
+own Conceit.</p>
+            </q>
+            <q>
+               <bibl>M. D. Dickſon,</bibl>
+               <p>Papiſts hate nothing in Prelacy but what is Presbyterian, and
+Presbyterians hate nothing in it but what it Popiſh.</p>
+            </q>
+            <q>
+               <bibl>M. R. Blair,</bibl>
+               <p>The Biſhops of England are like the Kings of Judah, ſome good
+ſome bad. The Biſhops of Scotland are like the Kings of Iſrael, not a
+good one amongſt them all.</p>
+            </q>
+            <p>Publiſhed by a Lover of Peace and Truth. Printed in the Year
+MDCLXXXIX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="reasons">
+            <pb facs="tcp:66087:2"/>
+            <pb facs="tcp:66087:2" rendition="simple:additions"/>
+            <head>REASONS Why in this Juncture no Alteration ſhould be made in
+the GOVERNMENT Of the CHURCH of SCOTLAND.</head>
+            <p>
+               <hi>Reaſon I.</hi> BEcauſe Epiſcopal Government has not only
+the Advantage of Apoſtolick Conſtitution and Natural Reception by all
+Chriſtian Churches from CHRIST to <hi>Calvin,</hi> but alſo is found by
+Experi<g ref="char:EOLhyphen"/>ence to be the beſt Adapted for preſervation of Order, Peace and
+<g ref="char:V">Ʋ</g>nity.</p>
+            <p>
+               <hi>Rea. 2.</hi> Becauſe the moſt of the Gentry and
+Burgeſſes have taken the Teſt, and therefore can never without perjury
+vote for the Introduction of <hi>Preſ<g ref="char:EOLhyphen"/>bytry,</hi> or chuſe ſuch a
+Commiſſioner as may be ſuſpected to favour that way.</p>
+            <p>
+               <hi>Rea: 3.</hi> If <hi>Preſbytry</hi> be voted, then returns
+upon you the <hi>Solemn League</hi> and <hi>Covenant,</hi> as is
+evident not
+only from the preſent proceedings of the <hi>Presbyterian Preachers,</hi>
+but
+alſo from the Natural Exigence of the thing, it not being poſſible to
+conceive a Foundation for parity with<g ref="char:EOLhyphen"/>out it, and if the Covenant return then,
+beſide the many impieties of that Oath, it muſt make the moſt
+conſiderable of the Nation either perjured or mi<g ref="char:EOLhyphen"/>ſerable; And no Man can
+have any publick place either in Church or State, but ſuch as ſhall do
+pennance for taking the Teſt; and not only ſo, but a great part of the
+Laity of the Nation, muſt be reduced to great ſtraits, both in reference to
+Conſcience and Intereſt, and the preſent Regular Clergy be turned out,
+which will reduce the Church to ſuch Amazing Hardſhips, that the Goſ
+pel
+ſhall not be preached in three parts of the Kingdom, there not being an
+hundred qualified <hi>Presbyterians</hi> in the Kingdom.</p>
+            <p>
+               <hi>Rea: 4.</hi> Becauſe if <hi>presbytry</hi> ſhall not be
+thus eſtabliſhed in its integrity but all that Alteration turn to a
+<hi>Non-Epiſcopacy,</hi> and the preſent Presbyters con<g ref="char:EOLhyphen"/>tinue in their
+Offices, then our deplorable Schiſms and Diviſions, will conti<g ref="char:EOLhyphen"/>nue without
+a remedy, or elſe the Magiſtrate will take the Government of the Church
+upon him, and we muſt have downright <hi>Eraſtianiſm.</hi>
+            </p>
+            <p>
+               <hi>Rea: 5:</hi> Becauſe the eſtabliſhment of
+<hi>Presbytry</hi> will have a moſt perni<g ref="char:EOLhyphen"/>cious influence upon the
+<hi>Proteſtant Religion</hi> in this Iſland if ever Pope<g ref="char:EOLhyphen"/>ry ſet up its
+head. For the Churches of <hi>England</hi> and <hi>Scotland</hi> muſt
+ſtand
+on different bottoms, &amp; ſo will be obliged to juſtifie themſelves by
+different Ar<g ref="char:EOLhyphen"/>guments,<pb n="4" facs="tcp:66087:3"/>which will prove very hard for
+<hi>Scotland,</hi> ſeing Presbytry will di<g ref="char:EOLhyphen"/>vid it from <hi>England,</hi>
+which opens a door to the re-entry of Popery, which cannot but aleniate the
+Affections of the Church of <hi>England</hi> from us, which conſidering
+our
+own weakneſs will expoſe us a prey to the common Enemy.</p>
+            <p>
+               <hi>Rea. 6.</hi> To be for Presbytry in this Juncture will
+exceedingly diſoblige the Princeſs of <hi>Orange,</hi> whoſe
+principles
+are known to all <hi>Europe</hi> in this matter, and the Prince alſo who
+has
+no inclination for the Alteration of the Govern<g ref="char:EOLhyphen"/>ment of the Church, as he hath
+now abundantly declared.</p>
+            <p>
+               <hi>Rea. 7:</hi> Let all thinking Men but reflect upon the Natural
+Tempter of Preſ<g ref="char:EOLhyphen"/>bytry, and view it in its Tyrannical, pragmatick, Medling and
+Domineering effects which many good Men yet living of all Qualities have
+ſeverely felt. Let them likewiſe conſider the Hypocriſie, immorality
+and Antichriſtian genius of that party, and then let them vote for it if they
+think fit.</p>
+            <p>
+               <hi>Rea: 8:</hi> If the Church of <hi>England</hi> continue as it
+is (as undoubtedly is will) and <hi>Scotland</hi> be reduced to
+<hi>Presbytry,</hi> then conſidering the bound<g ref="char:EOLhyphen"/>leſs and reſtleſs
+ſpirit of Presbytry, <hi>Scotland</hi> will impoſe, <hi>ſicut ante,</hi>
+an uni<g ref="char:EOLhyphen"/>formity in Doctrine and Diſcipline upon that Nation, which will
+commence a new Civil War, the thoughts of which cannot but breed horrour in
+all
+rea<g ref="char:EOLhyphen"/>ſonable Men.</p>
+         </div>
+         <div type="answer">
+            <pb n="5" facs="tcp:66087:3"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>IF the wounds of a Friend be better than the kiſſes of an
+Enemy, they ſhould be far more acceptable then the wounds of an Enemy;
+And
+therefore I expect ye will not be diſpleaſed with my Freedom in this line
+deſigned for preventing your more ſevere and ſhameful Treatment, by
+our
+<hi>Adverſaries</hi> to whom ye have given great advantage, by ſome
+<hi>Reaſons</hi> ye have writen [<hi>why in this Juncture there ſ
+hould be
+no Alteration of the Govern<g ref="char:EOLhyphen"/>ment of the Church of</hi> Scotland] of baffling
+our cauſe ſo unſeaſonably and <hi>weakly defended</hi> by you.
+For
+albeit there are many <hi>ſober Presbyterians</hi> whoſe generous
+compaſſion of our preſent ſtaggering condition, would not al<g ref="char:EOLhyphen"/>low
+them
+to give you ſuch an humbling Repartee, as ye give too large ground for, yet
+as we deſerve it not at their hand, who have been ſo cruel to them in
+their
+low condition; ſo we cannot expect it from eve<g ref="char:EOLhyphen"/>ry one of them, eſpecially,
+when they are at once encouraged, by the many Diſadvantages of our pre
+ſent
+circumſtances, and irritated by your extreme bitterneſs againſt them,
+and
+therefore I adviſe you would recal all the copies of it, which I am hopeful
+have not yet ſpread far, for in. genuouſly they are ſo weak, that few of
+our perſwaſion will be at the pains to tranſcribe them, and I think they
+will be more careful of our Reputation then to ſuffer them to come to the
+hands of any <hi>Presbyterian;</hi> as through time they may, if you
+prevent it
+not. But leſt your vanity make you confidently contemn my counſel; I
+ſhall take a little pains to abate your confidence, by ſhewing you how
+eaſily and advantagiouſly our Adverſaries with whom I have frequent
+converſe can anſwer you.</p>
+            <p>But I muſt firſt expreſs my Diſſatisfaction with the
+title ye give your paper ſo lyable to the moſt perplexing Exceptions can
+be
+made againſt us. I doubt not but ye have heard (I have heard it ſo often)
+how la<g ref="char:EOLhyphen"/>mentably <hi>Arch-Biſhop P:</hi> was baffled of late by Mr.
+<hi>Roger</hi> at <hi>Glaſgow,</hi> upon the like occaſion given
+him; Weare
+too conſcious to our ſelves, that the ſole ſupport of our intereſt is
+but <hi>Civil Laws</hi> (though the <hi>Biſhops</hi> were at the
+making them)
+and that all <hi>Eccleſiaſtick Authority</hi> is on their ſide; And
+therefore ye would be inextricably puzled, if they put the Queſtion to you,
+Which of the two is the Government of the <hi>Church of Scotland,</hi> that
+which is only introduced by <hi>Civil Laws,</hi> without any
+<hi>Eecleſiaſtick Authority,</hi> contrary to the ſtanding Laws of the
+Church, never yet repealed by any <hi>Church Judicature,</hi> or that which
+is
+eſtabliſhed by many National Aſſemblies of the Church, though
+contrar
+to poſteri<g ref="char:EOLhyphen"/>our Acts of Parliament, made without any conſequent, far leſ
+s
+Ante<g ref="char:EOLhyphen"/>cedent Determination of any Church Judicatory.</p>
+            <p>
+               <pb n="6" facs="tcp:66087:4"/>They may likewiſe give you an unanſwerable
+challenge of monor polizing the ſpecious name of the <hi>[Church of
+Scotland]</hi> to us (excluding them) becauſe we have receded from old
+ſtanding <hi>Eccleſiaſtick Laws</hi> with<g ref="char:EOLhyphen"/>out any other warrand then
+<hi>new Civil Laws</hi> contrary to them; and upon that account charge us
+with
+<hi>Schiſm</hi> &amp; <hi>unwarrantable ſeparation</hi> from
+them, having
+no Evaſion left us, but that we are the more numerous part of the Clergy,
+which ſcarce makes our Separation tolerable, far leſs juſtifiable.</p>
+            <p>But that which is as unbecoming us, as unacceptable to them, is
+your pleading <hi>[no Alteration]</hi> which will ſtumble your Readers
+with
+preju<g ref="char:EOLhyphen"/>dice in the very entry; For how ever difficult it be to prove the
+neceſſity of ſuch an intire Alteration as <hi>Presbyterians</hi>
+deſire, yet they can eaſily pitch upon many things, which we cannot
+ingenuouſly deny ſhould be alter<g ref="char:EOLhyphen"/>ed; And the book entituled the
+<hi>Reformed Biſhop,</hi> writen by one of our Clergy, opens a wide door
+to
+them; Yea, we are all of us too ſenſible, that our intereſt has been
+ſcrued up to ſo dangerous heights, by the Laws, that there is no ſtable
+Baſis left to eſtabliſh it in the Conſciences of thoſe who own it;
+And we have Reaſon to fear leſt thoſe odious ſuper<g ref="char:EOLhyphen"/>ſtructures of
+the
+Magiſtrates unbounded <hi>Supremacy</hi> over the <hi>Church,</hi>
+ſuch
+rigorous impoſitions on the Conſciences of Subjects, and ſo cruel
+perſecu<g ref="char:EOLhyphen"/>tion of all Diſſenters (which by an exceſs of Zeal we have
+erected, to be the ſecurities of our cauſe) may ſo much diſcommend
+the
+whole Fa<g ref="char:EOLhyphen"/>brick of our Government, as to endanger the total ruine thereof. And
+I
+have alwayes thought it a great flaw in the <hi>Epiſcopal Government</hi> in
+<hi>Scot<g ref="char:EOLhyphen"/>land,</hi> that as it hath been built upon no other Foundation, and
+advanced by no other Methods then <hi>Civil Laws</hi> rigorouſly
+executed,
+ſo theſe are framed in ſuch an <hi>Arbitrary</hi> and perſecuting
+ſtile, that the leaſt turn of Affairs will render them as odious as before
+they were grievous to all moderate and judicious Men of both parties.</p>
+            <p>And finally, it ſurpaſſeth my imagination, what hath
+incouraged you to add <hi>[in this Juncture?]</hi> Its evident that the
+whole
+preſent Juncture of Affairs hath a bad Aſpect on us, and we can expect
+little Favour from ſuch as duely conſider the ſame. What hath
+infatuated
+you to ſuch an unaccountable confidence? Alace! your Reaſons can never
+cancel theſe unhappy Addreſſes to the King, ſo freſh in the
+remembrance of all Men; That of the <hi>Primat</hi> ſent to King in name
+of
+the Clergy, to thank him for the Liberty granted to the <hi>Papiſts,</hi>
+ſo full of baſe <hi>ſycophantry,</hi> and <hi>ab<g ref="char:EOLhyphen"/>ject flattery,</hi>
+that
+even the <hi>Popiſh King</hi> was aſhamed of it, which I fear be
+printed at
+<hi>Fdinburgh</hi> before the Convention, though ye tempt them not
+<pb n="7" facs="tcp:66087:4"/>to the remembrance of it, and that other moſt
+unſeaſonable Teſtimony of our Loyalty, expreſsing our Deteſtation
+of
+the <hi>P. of Orange</hi> his com<g ref="char:EOLhyphen"/>ing to <hi>England,</hi> as an unjuſ
+t and
+unnatural Invaſion; ſigned by the <hi>Bps</hi> to their eternal ſ
+hame.
+Neither will ever this Paper of yours counter<g ref="char:EOLhyphen"/>poiſe the <hi>P. of
+Orange,</hi> His Declaration in reference to <hi>Scotland,</hi> where<g ref="char:EOLhyphen"/>in
+we are
+repreſented as the grievance of the Nation, and the neceſſity of an
+Alteration, inſinuated as clearly as could be done without direct<g ref="char:EOLhyphen"/>ly
+reflecting on our Laws, which though he doth not approve, yet he Judgeth
+unſeaſonable as yet to condemn. Nor Finally can all ye ſay for our
+vindication, outcry the loud voice of the Rigorous Perſecution, and violent
+Oppreſſion, and innumerable Grievances, which may be too juſtly
+charged
+on our party, and the <hi>Presbyterians</hi> are too apt to re<g ref="char:EOLhyphen"/>preſent and
+aggredge ſo, as to extort pity and compaſſion, even from the hardeſt
+hearted of our <hi>Grandies</hi> without ſuch an irritating remem<g ref="char:EOLhyphen"/>brance
+as
+you are.</p>
+            <p>But to come to your Reaſons, <hi>Presbyterians</hi> will think
+them weak e<g ref="char:EOLhyphen"/>nough, though ye had not wronged them by ſuch a vain Title. I
+wiſh ye had forborn the firſt which is too <hi>Theologick,</hi> and ſo
+not only diſcov<g ref="char:EOLhyphen"/>ers the Author to be of the <hi>Clergy,</hi> who are little
+regarded when plead<g ref="char:EOLhyphen"/>ing for their own Intereſt, but doth alſo give our
+<hi>Adverſaries</hi> too large a Field wherein they are beſt acquainted
+and
+moſt expert. Ye might have ſatisfied your ſelf only with
+<hi>Politick</hi> Arguments, which are the moſt pro<g ref="char:EOLhyphen"/>per and ſuitable to
+our
+cauſe, and would ſeem to be the Sentiments of ſome Judicious Perſ
+on of
+another Quality agenting it, and ſo be a great deal more acceptable and
+conſidered with the leſs prejudice. But I ſee no kind of reaſon in
+your
+Paper which <hi>Presbyterians</hi> cannot anſwer with<g ref="char:EOLhyphen"/>out any difficulty
+and
+with great advantage.</p>
+            <p>Your firſt Reaſon hath three things in it, which though it be
+ſuffici<g ref="char:EOLhyphen"/>ent ſimply to deny becauſe meerly aſſerted, yet our
+Adverſaries will not paſs them ſo bluntly, they give too fair an
+occaſion to them, of giving the ſharpeſt and ſoreſt wounds to our
+cauſe that it can meet with, and of prepoſſeſſing mens Conſ
+ciences
+with ſuch evident Convictions in their favour, as will render all your other
+Reaſons ineffectual for per<g ref="char:EOLhyphen"/>ſwading them to favour us.</p>
+            <p>The I. thing in it is <hi>(That Epiſcopacy hath the advantage of
+Apoſtolick Con<g ref="char:EOLhyphen"/>ſtitution,)</hi> a very fair Plea and plauſible Pretence,
+which ye would ex<g ref="char:EOLhyphen"/>ceedingly oblige, the greater and better part of your
+Beethren, by making good; But how can we expect this of you, when the
+Learned
+<hi>Hamond,</hi> who excells all that ever took that Plea in hand for him
+not<g ref="char:EOLhyphen"/>withſtanding<pb n="8" facs="tcp:66087:5"/>all his wreſted Criticiſms of
+Scripture, and ſtretched Alle<g ref="char:EOLhyphen"/>gations from Antiquity, hath not fully
+ſatisfied us in this point; ſo that all the Sober and Learned among us,
+except a very few Judge Church Government a point of <hi>Indifferency,</hi>
+not
+peremptorly determined by Chriſt or His Apoſtles, and that
+<hi>Epiſcopacy</hi> is preferable only for its Con<g ref="char:EOLhyphen"/>veniency; And whether
+the
+Report be true that <hi>Dr. Burnet</hi> hath ac<g ref="char:EOLhyphen"/>knowledged its
+Inconveniency
+for <hi>Scotland,</hi> I know not; But I have heard ſome of the moſt
+Judicious of our <hi>Clergy</hi> ingenuouſly confeſs, that though to a
+People unbiaſſed with prejudices as in <hi>England</hi> that were to
+choſe their <hi>Church Government, Epiſcopacy</hi> is preferable to
+<hi>Presbytery,</hi> yet to the People of <hi>Scotland</hi> (who are
+poſſeſſed with ſuch invincible prejudices in favours of
+<hi>Presbytry</hi> as the <hi>Church Government,</hi> which commenced
+with
+their <hi>Re<g ref="char:EOLhyphen"/>formation</hi> from <hi>Popery,</hi> and has been eſtabli
+ſhed
+by ſo many full and free <hi>Church Judicatories;</hi> and Ratified by the
+Civil Sanction of three Succeſſive Parliaments, wherein three Kings
+Succeſſively were Perſonally preſent, and with no leſs Inſ
+uperable
+prejudices againſt <hi>Epiſcopacy</hi> as a Relict of <hi>Popery</hi>
+which
+amongſt other corruptions they were Reformed from, and as an Innovation
+Introduced, Advanced and. Eſtabliſhed by Arbitrary and Violent Methods,
+not
+only without but againſt the Conſent of the <hi>Miniſtry;</hi> and
+finally as an incouragement of Ignorance, Profanity and Error to the paving the
+way for <hi>Popery</hi>) to ſuch a prejudiced and byaſ<g ref="char:EOLhyphen"/>ſed People
+<hi>Epiſcopacy</hi> is both inconvenient and intolerable. And
+<hi>Presby<g ref="char:EOLhyphen"/>terians</hi> do ſo well know, that the ſentiments of many
+of
+your Brethren, differ from yours in this point, that they will not only
+redicule you as Ignorant of the Scriptures, wherein the Names of Biſhop and
+Presbyter are uſed indifferently as ſignifying the ſame thing; nothing
+given in di<g ref="char:EOLhyphen"/>rection to the ordinaty Officers of the Church, is peculiarly
+applicable to <hi>Dioceſan Biſhops,</hi> yea, and the Superiority of
+one
+Paſtour above ano<g ref="char:EOLhyphen"/>ther, is expreſly prohibited both by Chriſt in the
+Goſpel and <hi>Peter</hi> in his <hi>Epiſtle,</hi> but they will alſ
+o
+inſult over you as impudent, in pretending that for your vindication, which
+not only the Generality of the Learned among the Clergy; but all the greateſ
+t
+of our Champions alſo as <hi>Ban<g ref="char:EOLhyphen"/>croft, Bilſon, Low, Sutclive, Whitgift,
+Hooker, &amp;c.</hi> do deny to be clear or concludent in our Favours;
+undervaluing this Topick moſt laboriouſly as being conſcious, it is
+againſt them aſſerting, that Apoſtolick Inſti<g ref="char:EOLhyphen"/>tutions of <hi>Church
+Government,</hi> do not take away the Indifferency and Mutability of it
+according to the conveniency of every particular <hi>Church.</hi> And as for
+theſe few Learned men, who maintain the <hi>Divine Right</hi> of
+<hi>Epiſcopacy</hi> they do ingenuouſly confeſs, that there is no
+<hi>Epiſcopacy</hi> in any<pb n="9" facs="tcp:66087:5"/>Church, now which doth
+not in
+many things Deviate from the <hi>Pri<g ref="char:EOLhyphen"/>mitive Epiſcopacy</hi> which they
+own;
+and they will readily acknowledge, that <hi>Epiſcopacy</hi> as its
+conſtitute in <hi>Scotland,</hi> either as to its Elevation to ſuch an
+hight of Superiority and Power over <hi>Presbyters,</hi> or its complica<g ref="char:EOLhyphen"/>tion
+with ſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch groſs
+<hi>Eraſtianiſm,</hi> or its Conjunction with civil Dignities, and
+Characters is not only qu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te
+Different from it, but directly oppoſite to it, So that it is the hight of
+Impudence to have pleaded no alteration from the Topick of Apoſtolick
+Inſtitution, which doth ſo evidently prove the neceſſity of an
+Alteration even in the ſenſe that both Parties have of it; and it is
+ſcarce ſo excuſeable as the confidence of ſome of our Writers, who
+doubt not to ſay roundly, that albeit <hi>Epiſcopacy</hi> was not the
+Go<g ref="char:EOLhyphen"/>vernment of the Church in its Infancy, yet it is better ſuted to it in its
+preſent Maturity, which th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+ugh it
+be not a ſufficient ground of preferring humane Inventions before <hi>Divine
+Inſtitutions,</hi> yet is leſs intolerable be<g ref="char:EOLhyphen"/>cauſe it hath ſome
+ſhaddows and collour of Reaſon for it; And after the great light, that
+theſe <hi>Famous Presbyterians, Blondell</hi> and <hi>Salmaſius,
+Parker</hi> and <hi>Didoclavius</hi> have given, to the advantage of
+<hi>Presbytry,</hi> in this controverſie, is the only ſhift left us to
+evade the Force of their Argu<g ref="char:EOLhyphen"/>ments, both from Scripture and Antiquity
+againſt us.</p>
+            <p>The next thing ye aſſert is, that [<hi>Epiſcopacy</hi> hath
+the Advantage of a Natural Reception by all Chriſtian Churches from CHRIST
+to
+<hi>Calvin</hi>] <hi>Sir,</hi> Your Phraſe of a Natural Reception is ſ
+o
+Dark and Ambigous that they will put what ſenſe on't they will, and
+perhaps
+deride you and it both, by confeſſing that Epiſcopacy had a great
+advantage of Recep<g ref="char:EOLhyphen"/>tion from the natural (Corrupt and Carnal) Reaſonings
+and
+Incli<g ref="char:EOLhyphen"/>nations of Men who are naturally Ignorant, that the Excellency of all the
+means of the Churches Edification is their Inſtitution by a Superna<g ref="char:EOLhyphen"/>tural
+<hi>Divine Wiſdom</hi> and <hi>Authority,</hi> becauſe they are
+not only
+adapted to <hi>Supernatural ends,</hi> but depend intirely for their Efficacy
+upon a <hi>Supernatu<g ref="char:EOLhyphen"/>ral Divine Power</hi> and <hi>Bleſſing;</hi>
+and who
+are naturally no leſs Artogant to add the Invention of their own vain
+Wiſdom, as no leſs uſeful and ne<g ref="char:EOLhyphen"/>ceſſary, and to expect <hi>Gods
+Bleſſing</hi> thereupon which he hath promiſed only to his own
+Inſtitutions. But albeit they put a more Fabourable ſenſe on your
+Words
+as importing an Early and eaſie Reception, yet they will not only retort,
+that ſeveral acknowledged corruptions had as eaſie reception as it, and
+far
+more early then ſuch an <hi>Epiſcopacy</hi> as this of ours, which
+(taking
+it complexly) we our ſelves cannot deny would have been odious and
+intolerable in the <hi>Primitive Church,</hi> but they can like<g ref="char:EOLhyphen"/>wiſe quite
+enervate your Argument, by propoſing to your conſiderati<g ref="char:EOLhyphen"/>on the Gradual
+and
+Inſenſible Progreſs of the <hi>Myſtery of Iniquity,</hi> which
+<pb n="10" facs="tcp:66087:6"/>the Apoſtles obſerved to have begun its motion,
+and to
+be miſteriouſly working even in their time, and therefore could not be
+much
+regarded yea ſcarce obſerved in the <hi>primitive Church,</hi> ſo full
+of
+unexperienced ſimpli<g ref="char:EOLhyphen"/>city and extended Charity, wherein there were many
+Paſtours ſo Emi<g ref="char:EOLhyphen"/>nent for their Wiſdom &amp; Gravity, Holineſs and
+Humility, as ſeemed to challenge, and eaſily obtained more then ordinary
+Deference and Re<g ref="char:EOLhyphen"/>ſpect from their Brethren, and that from one Degree to
+another, untill at laſt through time the Church degenerated into a
+<hi>Prelatick Government,</hi> which could not be unacceptable or at leaſ
+t
+intolerable to the Genera<g ref="char:EOLhyphen"/>lity, being ſo well ſuited to the Superſtitious
+(the Predominant) Ge<g ref="char:EOLhyphen"/>nius of theſe Times, though it paſt not altogether
+without a witneſs from ſome of the moſt Learned and Seeing Men then
+living, who were not ſo much incerted with the common diſtemper of the
+Age
+they lived in but that they could both look back to the <hi>Primitive purity
+and parity from which Epiſcopacy had declined,</hi> and forward to the
+Papal
+corruption and Tyranny, to which it inſenſibly and gradually tended as it
+ſhould at large by <hi>Blondel</hi> and <hi>Salmaſius</hi> to the
+full
+conviction of all who read their Labourious Writings. Yea, they will not only
+Enervate your Argu<g ref="char:EOLhyphen"/>ment, but turn the edge of it upon your ſelf, by
+inſtancing the <hi>Albi<g ref="char:EOLhyphen"/>genſes</hi> who preſerved the <hi>Presbyterian
+Government</hi> from the Apoſtles time to <hi>Luther,</hi> and whoſ
+e
+Teſtimony againſt <hi>Dioceſan Epiſcopacy</hi> is as ſtrong, as
+it is
+by our own Confeſſion againſt other <hi>Romiſh</hi> corruptions.
+Nay!
+they will come nearer home and cite credible Hiſtory, narrating
+<hi>Scotland</hi> not to have received <hi>Epiſcopal Government</hi>
+for
+ſome hundreds of years af<g ref="char:EOLhyphen"/>ter it received the <hi>Chriſtian Religion,</hi>
+as not only <hi>Bucchannan</hi> our famous Hiſtorian ſheweth, but our
+own
+great Doctor <hi>Forbes</hi> confeſſeth in his <hi>Ire<g ref="char:EOLhyphen"/>nicon.</hi>
+And
+finally they will foil this Argument quite, by ſhewing <hi>Epiſ<g ref="char:EOLhyphen"/>copacy</hi>
+to have met with a more early and eaſie Ejection out of the Church when it
+was Reformed from corruptions, as a Native ſtep of its Reformation, then
+ever
+it had reception by the Church, even when declining from its ancient Purity.
+And though <hi>England</hi> hath continued Epiſcopal, yet they will ask
+what
+reaſon is there for Juſtifying the the Epiſcopal Government, more then
+Her Ceremonious Worſhip, and why may not that Church be condemned for
+retaining the one as well as the other? and they have too evident grounds for
+imputing their Contumation to the ſtiffneſs of Q. <hi>Elizabeth</hi> as
+the
+Chief, if not the Sole hindrance of the Ejection of both out of
+<hi>England,</hi> as well as the other Reformed Churches; which was earne
+ſtly
+deſired by the moſt Learned and Pious Divines in the Church, though
+when
+they found their en<g ref="char:EOLhyphen"/>deavours fruitleſs, they chooſed rather to comply
+therewith then di<g ref="char:EOLhyphen"/>ſturb<pb n="11" facs="tcp:66087:6"/>the Peace of the Church and
+Kingdom.</p>
+            <p>The laſt thing in this Reaſon is that [Epiſcopacy is by
+Experience found to be the beſt adap<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed for preſervation of <hi>Order, Peace and <g ref="char:V">Ʋ</g>nity.</hi>]
+<hi>Preshyterians</hi> will hiſs the Argument out of doors, becauſe its
+the
+very ſame which <hi>Papiſts</hi> uſe againſt <hi>Proteſtants</hi> for
+juſtifying the <hi>Papal power.</hi> And it is more eaſie for them to
+reſort our anſwer to Papiſt, on our ſelves, then for us to Evade the
+Force of them without either derogat<g ref="char:EOLhyphen"/>ing from the Epiſcopal power, which we
+mantain againſt Presbyteri<g ref="char:EOLhyphen"/>ans or Homologating the <hi>Papal power</hi>
+which
+<hi>Papiſts</hi> maintain againſt <hi>Proteſtants.</hi> We grant
+the
+<hi>Papal power</hi> to be very much Adapted for Wordly Pomp, Power and
+Policy,
+but upon that very ſcore deny it to be a Government becoming the Church,
+becau<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <hi>Chriſt</hi>
+expreſly
+diſchar<g ref="char:EOLhyphen"/>geth his Apoſtles, and in them all their <hi>Succeſſors to
+exerciſe Dominion as the Lords of the Gentiles do over them.</hi> This
+Anſwer to <hi>Papiſts</hi> is an Argument ſo plate againſt our
+ſelves, that ingenuouſly I am not fully ſatisfied with our ſubtile
+Evaſions of it. And though that of Dr. <hi>Burnets</hi> in his Latter
+Dialogues be the beſt I have yet ſeen, that nothing is pro<g ref="char:EOLhyphen"/>hibited in
+theſe words, but the Exerciſe of Civil Power by any Church Officer, over
+the Church; and ſo nothing of the <hi>Papal power</hi> is condemned by
+it,
+but the Uſurpation of a <hi>Temporal Dominion over Princes;</hi> Yet ſ
+eeing
+this leaves his <hi>Eccleſiaſtick Supremacy,</hi> (under which the
+ſubtile <hi>Jeſuits</hi> Comprize all the Power he Exerciſes)
+untouched
+and uncon<g ref="char:EOLhyphen"/>demned, by the cleareſt Scripture Argument we have againſt
+it,
+which all Reform<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d Divines
+make
+uſe of (even the <hi>Epiſcopal</hi> themſelves) in their writings
+againſt the <hi>Papal Tyranny</hi> in <hi>Eccleſiaſticks</hi> as
+well as
+<hi>Civils,</hi> I nothing doubt but the preſent Zeal of that great Man
+againſt Popery, would diſclaim this evaſion frankly as the effect of his
+former eagerneſs againſt <hi>Presbytery,</hi> hurrying him to a Critici
+ſm
+ſo favourable to Pope<g ref="char:EOLhyphen"/>ry. And when I have conſidered the extent of the
+Paralel place, 1. <hi>Pet.</hi> 5.3. and the particular Application in
+Reference to <hi>Spirituals,</hi> which the Apoſtle <hi>Paul</hi>
+makes, 2.
+<hi>Cor.</hi> 1. <hi>laſt;</hi> I cannot look upon that otherwiſe
+then an
+overſight in the <hi>Doctor,</hi> notwithſtanding of my ſingular Eſ
+teem
+of Him and his Writings. But the truth is (if we conſider ſeriouſly) the
+aptitude of <hi>Epiſcopacy,</hi> for preſerving the Dignity and
+promoting
+the Intereſt of the Clergy; its ſimilitude to the Civil Government, and
+Conformity to the Carnal conceits men have of the Church of God, are (even as
+it fares with Popery,) both its greateſt advantage and diſ<g ref="char:EOLhyphen"/>advantage, its
+greateſt advantage recommending it to Carnal men, who meaſure all
+things by
+their Carnal Imaginations and Inclinations, and its greateſt diſadvantage
+diſcommending it to Conſcientious men<pb n="12" facs="tcp:66087:7"/>who meaſ
+ure all
+the concerns of the Church, by the <hi>unerring Rule of the Word of GOD,</hi>
+and judge of them by their influence on, and uſefulneſs for the Edification
+of their Souls. And alace! the odious effects of <hi>Epiſcopa<g ref="char:EOLhyphen"/>cy</hi> in
+<hi>Scotland,</hi> eſpecially ſince it was laſt introduced, are ſo
+recent and ob<g ref="char:EOLhyphen"/>vious, that if any witty <hi>Presbyterian</hi> ſhall be at
+the
+pains, to rake up this Dunghil, I am afraid ſuch an intolerable ſtink
+ſhall be raiſed, as no Aptitude which our Government hath to what is
+good,
+or can pretend to have, will be either Regarded or Believed by any who are
+Judicious, far leſs Sober and Conſcientious. For Senſe and Experience
+are
+more convincing than all the Reaſons in the World.</p>
+            <p>But to be more particular, ye ſay, <hi>[its found by Experince
+to be the beſt a<g ref="char:EOLhyphen"/>dapted for preſervation of Order] Presbyterians</hi> will
+anſwer, That what ever be its apparent Aptitude for this, yet it is in
+effect, it ſelf an alteration of the <hi>primitive Order</hi> obſerved in
+the Church, which did gradually reſolve at laſt into a <hi>total
+innovation</hi> of the <hi>Churches Order,</hi> by a <hi>papal
+ſupremacy,</hi> which it hath exchanged for a <hi>Caeſario-papatus</hi> in
+<hi>Scotland,</hi> leſt the Church ſhould not be ſtill monſtruous
+with
+two heads, one under another; And it is indeed a hard Queſtion, Why Order
+in
+the Church, (which we ſay, cannot be without <hi>prius &amp; poſterius,
+inferius &amp; ſuperius</hi>) doth not equally require a <hi>Pope,</hi>
+or
+King under CHRIST over Biſhops, as a Biſhop under CHRIST over
+Presbytry; Or
+why a parity amongſt Biſhops ſhould not be thought as inconſiſ
+tent
+with <hi>Order</hi> as a <hi>parity</hi> among all Paſtors. But neither
+doth
+the <hi>Presbyterian Government</hi> want its Order of <hi>ſuperius
+&amp;
+infe<g ref="char:EOLhyphen"/>rius,</hi> for amongſt them ſingle perſons are ſubject to
+<hi>Church Judicatories,</hi> and a leſſer Church Judicatory ſtill to a
+greater, <hi>&amp;c.</hi> In which Order ſee<g ref="char:EOLhyphen"/>ing there is not only that
+<hi>ah inferiore ad ſuperius,</hi> but a <hi>minore ad majus,</hi> it is
+moſt agreeable to the Church, as it is the Body of CHRIST, immediate<g ref="char:EOLhyphen"/>ly
+depending upon CHRIST its Head. And I confeſs ingenuouſly, when they
+have
+argued that feeding of Souls by diſpenſing the Word and Sa<g ref="char:EOLhyphen"/>craments is
+the
+ſublimeſt piece of a Church Mans imployment; that all power of Church
+Officers is only Miniſterial under CHRIST the Head and Lord of his Church;
+that though he be the <hi>political</hi> as well as <hi>Myſti<g ref="char:EOLhyphen"/>cal Head of
+the
+Church,</hi> who as its King and Lawgiver, might be expected would not
+leave it
+without Directions how it ſhould be governed, yet there is no inſtitution
+of a <hi>Dioceſan Epiſcopacy,</hi> that was ever pretented to be ſo
+clear
+as the Directions given concerning the Office of a Deacon, the loweſt Office
+in the Church; But the checks given by him to the firſt appearances of an
+inclination to <hi>pre-eminency</hi> among his <hi>Apoſtles,</hi> are
+clear<g ref="char:EOLhyphen"/>ly recorded in Scripture; and finally, that the lodging of all
+<hi>Eccleſiaſtick<pb n="13" facs="tcp:66087:7"/>power</hi> of Ordination or
+Juriſdiction, in the ſingle perſon of a Biſhop doth not ſute with the
+immediate Dependance of the Church, the Body of CHRIST upon CHRIST the
+Head of
+it; When they have Argued thus, I ſay, and urged each of theſe
+Arguments at
+length, I have been extreamly puzled to vindicat the <hi>Epiſcopal
+Order,</hi> and the ſuperiority of one Paſtor above another; All I could
+ſay, was, That Biſhops are as ne<g ref="char:EOLhyphen"/>ceſſary to overſee Paſtors, as
+Paſtors to overſee People, and they eaſily ſtopped my mouth, not
+only
+by retorting the equal neceſſity of a <hi>pope,</hi> to overſee
+Biſhops; But by ſhewing alſo that all Paſtors were ſubject to the
+cenſure of <hi>Church Judicatories,</hi> which could not eaſily be guilty
+of con<g ref="char:EOLhyphen"/>nivance and partiality, towards the ignorant and ſcandalous as
+Biſhops; and which by their ſolemnity &amp; impartiality, have as great
+and
+vene<g ref="char:EOLhyphen"/>rable an Authority as a Biſhop by virtue of his large Benefice, Lordly
+Titles, and pompous Train can have: Yea, I have been almoſt perſwa<g ref="char:EOLhyphen"/>ded
+to
+be a <hi>presbyterian,</hi> when they have reaſoned, that ſeing we
+confeſs, the higheſt <hi>Eccleſiaſtick power</hi> on Earth to be in
+an
+<hi>Oecumenick Council,</hi> and yet allow not of any further power in him
+that
+preceeds, than like that of a <hi>presbyterian Moderator</hi> in a
+Presbytry-ſynod, or National Aſſembly, and not like that of a Biſhop
+in
+a <hi>Dioceſan Synod,</hi> for fear of a <hi>pope;</hi> Why do we not
+alſo
+acknowledge Miniſters to be ſubject to inferiour Judica<g ref="char:EOLhyphen"/>tories of the like
+frame, and an inferiour and leſſer Judicatory, to a ſupe<g ref="char:EOLhyphen"/>riour and
+greater ſtill forward, till we arrive at an <hi>Oecumenick Council,</hi> as
+the higheſt Judicatorie of all immediately and ſolly ſubject to CHRIST
+as
+the Body to the Head, without any <hi>Dioceſan</hi> Biſhop over the
+ſe
+infe<g ref="char:EOLhyphen"/>riour more than a <hi>pope</hi> over his <hi>ſupreme Judicatorie,</hi>
+as being the moſt e<g ref="char:EOLhyphen"/>qual and Homogenious, and therefore alſo the moſ
+t
+ſutable and excel<g ref="char:EOLhyphen"/>lent Order of the Church, making the Government of
+particular Church<g ref="char:EOLhyphen"/>es, and of the <hi>
+                  <g ref="char:V">Ʋ</g>niverſal Viſible Church,</hi> to
+agree together with an excellent Harmony, and moſt orderly Decency. I am
+Naturally of ſuch an inge<g ref="char:EOLhyphen"/>nuous Temper, that I had not the confidence to
+reply, that the Mem<g ref="char:EOLhyphen"/>bers of the <hi>Oecumenick Cnuncils</hi> were
+<hi>Dioceſan Biſhops,</hi> becauſe I not only knew that
+<hi>presbyters</hi> have been admi<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ed Members, and voted as well as Biſhops, and that
+<hi>presbyterian</hi> as well as <hi>Epiſcopal Churches</hi> muſt
+be
+allow<g ref="char:EOLhyphen"/>ed their <hi>Delegates</hi> in caſe of an <hi>Oecumenick Council,</hi>
+without any other power than that of the Repreſentatives of the Church that
+ſends them, Repre: ſenting their Brethren, and not having power over
+them
+lodged in their ſingle perſon<g ref="char:punc">▪</g> But I perceive the ſtrength of the
+Argument did not at all conſiſt in the Quality of the Members of a
+<hi>General Council;</hi> whether Bi<g ref="char:EOLhyphen"/>ſhops or Presbyters, but its Frame
+and
+the Method of its Acting, and<pb n="14" facs="tcp:66087:8" rendition="simple:additions"/>Exerting its
+Authority:
+And finally, I have been greatly aſhamed, and quite confounded, when they
+asked, Whether an <hi>Eraſtian head,</hi> an <hi>E<g ref="char:EOLhyphen"/>piſcopal Body,</hi> and
+a <hi>Presbyterian Tail,</hi> would orderly agree together, to make an intire
+<hi>Church Government;</hi> and laughing at the monſtruous Fa<g ref="char:EOLhyphen"/>brick of
+our
+Government, by ſuch a mix<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+ure,
+told me that we At<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ri<g ref="char:EOLhyphen"/>bute an
+Eccleſiaſtical Sup<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>emacy
+to the
+King, to unite him to our in<g ref="char:EOLhyphen"/>tereſt, that we may abuſe and pro<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>itute his Power and Authority, in
+proſecuting and promoving it; And that we make uſe of <hi>Parochial
+Seſſions</hi> from the Example of <hi>Presbytry,</hi> though <hi>Lay
+Elders</hi> be contrary to our prin<g ref="char:EOLhyphen"/>ciples, for amuſing the Conſciences of
+Ignorant People into the more willing ſubjection to us, as nothing differing
+from <hi>Presbyterian Miniſters:</hi> But that <hi>Epiſcopal
+preeminencies</hi> and <hi>benefices</hi> are the chief Deſign of all, to
+ſatisfie the Ambition &amp; Avarice of the leading men amongſt us
+&amp; to
+be a ſhelter and incouragement, to the ignorance, idleneſs, and profanity
+of the r<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt of us. Thus ye
+ſee
+how they have treated me in this point, who though I come ſhort in point of
+obſtinate Confidence, yet I underſtand the Controverſie betwixt
+<hi>Presbyterians</hi> and us, better then many of my Brethren, and have
+had
+greater advantages ſo to do then the moſt part of them; And I nothing
+doubt
+but ye will meet with the like uſage from your Adverſaries, to your publick
+ſhame, and affronting our cauſe, if ye prevent it not.</p>
+            <p>The next thing is, that <hi>[Epiſcopacy is the beſt Adapted
+for preſervation of peace] Presbyterians</hi> will acknowledge; that it is a
+very calm, gentle, and peaceable Government to ſcandalous Sinners, and in
+this has the Advantage of being more acceptable then the <hi>Presbyterian</hi>
+to ſuch, not knowing that favour to their Sins is cruelty to their Souls; And
+yet I have heard ſome of our own Perſwaſion ſay, that the
+<hi>Presbyterian Go<g ref="char:EOLhyphen"/>vernment</hi> amidſt all its ſeverity, was more
+favourable then the <hi>Epiſco<g ref="char:EOLhyphen"/>pal,</hi> becauſe, though they were
+greedy
+of Folks repentance, yet they were not greedy of their Purſes. But ye may
+aſſure your ſelf, it will be accounted the height of impudence, ſo
+much
+as to have mentioned peace as the native effect of <hi>Epiſcopacy,</hi>
+and
+all the World will be ap<g ref="char:EOLhyphen"/>p<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+aled
+unto, whether our <hi>Biſhops</hi> have not been the chief troublers of
+<hi>Iſrael,</hi> and whether the connivence (to ſay no more) of the
+<hi>Epiſcopal Government</hi> a<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+Popery and profanity, (which are the only peaceable Effects it can pretend to
+in <hi>Scotland,</hi>) doth Counterballance its Rigour, and cruelty againſt
+<hi>Non-conformity,</hi> (even when accompanied with Ex<g ref="char:EOLhyphen"/>emplary
+Sobriety, Piety
+and Loyalty,) or whether it doth not ex<g ref="char:EOLhyphen"/>ceedingly aggredge the ſame, and
+render it the more odious to all that compare its favour to th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe with its ſeverity to this.
+And
+ingenuouſly,<pb n="15" facs="tcp:66087:8"/>whatever be in their imputing to
+<hi>Epiſcopacy,</hi> Tyranny over Mens Con<g ref="char:EOLhyphen"/>ſciences as its native
+effect,
+yet it is ſo ſadly evident that it hath Ex<g ref="char:EOLhyphen"/>tremly degenerated thereunto in
+this Church and Kingdom, that we cannot doubt, but it will meet with an eaſ
+ie
+belief from moſt part of the Nation, in ſpite of all your confident
+Aſſertions to the contrary, they will grant that <hi>Presbytery</hi> hath
+been ſo <hi>unfortunate,</hi> as not only to be rend<g ref="char:EOLhyphen"/>red unacceptable to
+our
+Kings, being at a diſtance in another Nation, by the cunning
+Miſinformations of Self-ſeeking <hi>Courtiers,</hi> the Calumnious
+Inſtigations of <hi>Engliſh Biſhops,</hi> ignorant of the Genious of
+<hi>Scotland,</hi> and the Pragnatick Influence of <hi>Jeſuits,</hi>
+whoſe
+greateſt Eye ſore it is. But alſo to be made a Mask to the Politick
+Deſign of <hi>Incendiaries</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>ſur<g ref="char:EOLhyphen"/>pers,</hi> (tho they
+retained it no longer then their Deſigns behoved to be kept cloſe;) and by
+this means to be miſcontrued, as the chief cauſe of War and Blood ſ
+hed by
+theſe, who underſtand not the Intrigues of Af<g ref="char:EOLhyphen"/>fairs, but after they grant
+you all this, nothing, they will confidently accuſe <hi>Epiſcopacy,</hi>
+that it hath been both ſo cruel and ſhameleſs, as even of choiſe, to
+turn, the moſt Serene peace &amp; ſolid Happineſs that ever this
+Nation
+was bleſſed with, at the Reſtauration of K. <hi>Charles</hi> the 2d.
+into
+a perpetual Tragedy of Perſecution, Oppreſſion, and of <hi>Arbitrary
+Govern<g ref="char:EOLhyphen"/>ment,</hi> manifeſtly of deſign to Introduce and Eſtabliſh it
+ſelf without the Conjunction of any other Malign influence imaginable:
+Though
+per<g ref="char:EOLhyphen"/>haps a <hi>popiſh party</hi> ſtroke in to an After Game, finding
+<hi>Epiſcopals</hi> as fore<g ref="char:EOLhyphen"/>ward as they could wiſh, to ruine
+<hi>presbyterians</hi> (though to the weakning of the <hi>Proteſtant
+Intereſt</hi>) hoping that if they ſhould not be ruined by us, yet they
+ſhould be ſo weakned and Exaſperaced, as to be eaſily gulled by
+their
+pretended Moderation to a concurrence with them, for the raz<g ref="char:EOLhyphen"/>ing down the
+ſecurities of the Reformed Religion by the <hi>Penal Laws</hi> a<g ref="char:EOLhyphen"/>gainſt
+<hi>Papiſts,</hi> (which by a total deſuetude we had rendred
+contemp<g ref="char:EOLhyphen"/>tible,) to ſhelter themſelves from our Rigorous and ſevere
+Laws
+againſt them, that ſo at Length <hi>popery</hi> might ſwallow us up
+both.
+And no Thanks to us that the <hi>papiſts</hi> were diſappointed of
+their
+Deſign, by the <hi>presbyterians</hi> greater zeal againſt <hi>popery,</hi>
+then Reſentment at our greater Severity to them then to Papiſts, which
+when
+I conſider, I have a ſtrong Apprehenſion that the Lord is about to
+reward
+their Faithfulneſs to their Principles as Proteſtants, with a Legal
+eſtabliſhment of their Govern<g ref="char:EOLhyphen"/>ment, in its integrity under a Presbyterian
+King, according to their wiſhes. So that you ſee what ever elſe you
+aſcribe to Epiſcopacy, your was folly to maintain peace.</p>
+            <p>In the laſt place you ſay [That Epiſcopal Government is
+found by Experience to be the beſt Adapted, for preſervation of Unity]
+And
+<pb n="16" facs="tcp:66087:9"/>why not, ſay they, the Papal Government for Unity
+amongſt Biſhops as well as the Epiſcopal for Uni<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y amongſt Presbyters? But they will ſpeak more
+home,
+and accuſe us of Schiſm in re<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ding from the unre<g ref="char:EOLhyphen"/>pealed Acts and Conſtitutions of the
+Church:
+And ſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Father the Schiſm
+on
+Epiſcopacy, intruded into the Church by meer Civil Laws and vio<g ref="char:EOLhyphen"/>lently
+preſſed upon all by the Sword of Perſecution. Without any due pains or
+proper methods uſed for preparing the Nation, for its reception. And albeit
+that the preſent diviſions amongſt Presbyterians are much talken of,
+yet
+judicious Perſons will impute them rather to the want of Presbyterian
+Government in the full and free exerciſe of its Authority, then to the
+weakneſs of the Government in it ſelf: and I am informed that lately both
+Parties are endeavourting an Union; and reſolve to Act Unitly againſt us:
+and when the Moderation of the One, and the Zeal of the Other party are
+Joined
+and Tempered together. They will make a more Formidable Figure both as to
+Counſel &amp; Action, then if they had never been divided. And though
+likewiſe the former Diviſions be<g ref="char:EOLhyphen"/>twixt the <hi>Remonſtrators</hi>
+and
+<hi>Publick Reſolvers</hi> are not forgotten, and ſerve to highten the
+prejudices of ſuch as are not acquaint with the myſterious Intrigues of
+theſe times. Yet they who knew how cunningly they were fomented under
+Boord,
+by the Kings Courtiers on the one hand, and that wylie Fox <hi>Croniwel</hi> on
+the other: will not Impute them to the <hi>Presbyterian Government</hi> as
+its
+native Effects, eſpecially ſeeing that the chief Motive that induced the
+<hi>
+                  <g ref="char:V">Ʋ</g>ſurper</hi> to rob them of the priviledges of free <hi>General
+Aſſemblies</hi> was the fear of their Union, which he knew could eaſ
+i<g ref="char:EOLhyphen"/>ly
+be affected by it laſt and ſureſt remedie, that amidſt their
+<hi>Inteſtin Diviſions,</hi> he might the more eaſily ſetle himſ
+elf
+in his Uſurped power, without any oppoſition from them, of whoſe
+Conſcientious Loyalty he had greateſt Jealouſies and fear. But alace!
+what can we ſay for our vindication if they charge us, that while we boaſt
+of Unity, we have not kept the Unity of the Faith. For they know well enough
+that as ſome of our Clergy are <hi>Socinian,</hi> (the vileſt of
+Hereticks,) ſo alſo that the Ge<g ref="char:EOLhyphen"/>nerality of the Learned amongſt us are
+groſs <hi>Arminians,</hi> who were con<g ref="char:EOLhyphen"/>demned as Hereticks by that
+Famons
+<hi>Synod of Dort:</hi> to which our Fa<g ref="char:EOLhyphen"/>mous K: <hi>James</hi> the 6th.
+Sent
+<hi>Repreſentatives</hi> from the Churches in <hi>Britain.</hi> And
+thus they
+repreſent our pretended Unity under Biſhops, ſo uncon<g ref="char:EOLhyphen"/>cerned with the
+<hi>Purity of Doctrine</hi> to be rather Odious and Deteſtable, then
+Harmonious and Commendable; whereas the Commendation of this Church for
+its
+Unitie under <hi>Presbyterian Government</hi> is ſo great in all the
+Reformed
+Churches: And was ſo frequently upbraided to the <hi>Eng<g ref="char:EOLhyphen"/>liſh
+Biſhops</hi> by K. <hi>James</hi> the 6th. from the diſpleaſure he
+had at
+the <hi>Scots</hi>
+               <pb n="17" facs="tcp:66087:9"/>Hereſies and Schiſms
+abounding in
+<hi>England,</hi> that <hi>Presbyterians</hi> will ſcarce think themſ
+elves
+oblidged to an Apology for any Diviſions that were<g ref="char:punc">▪</g> or Schiſm that
+is
+among them.</p>
+            <p>
+               <hi>Sir,</hi> I have ſtayed the longer upon your firſt
+Reaſon, becauſe it is the <hi>Baſis</hi> of all the Controverſie;
+And
+as it is unbecoming; the Wiſdom and Piety of the Enſuing Convention, to
+be
+Acted meerly by <hi>Politick Conſiderations</hi> in ſo weighty a
+Concern:
+Wherein the <hi>Glory of God, and the Souls and Conſciences of all in the
+Nation are ſo deeply Intereſſed.</hi> So that if your Adverſaries by
+a
+fair and full anſwer not only enervate this Reaſon, but turn the edge of it
+upon us, they may ſo prepoſſeſs the Conſciences of the
+<hi>Members</hi> in their Favours that all your other Reaſons will avail
+little though they were better then they are. But that I may proceed;</p>
+            <p>Your Second Reaſon is, [<hi>That the moſt part of the Gentry
+and Burgeſſes have taken the</hi> Teſt, <hi>and therefore can never
+without Perjury, Vote for the Introdu<g ref="char:EOLhyphen"/>ction of Presbyters, or chooſe ſuch
+Commiſſioners as are ſuſpected to Favour that way</hi>] <hi>Sir,</hi>
+the <hi>Presbyterians</hi> will not fail to tell you that you loſs your
+1ſt. <hi>Reaſon</hi> by this 2d. For if the <hi>Teſt</hi> be
+<hi>Obligatory</hi> to every point, then alſo to maintain the Kings
+Prerogative, whereof this is a chief one, by Law, that he may alter or
+diſpoſe of the External Government of the Church according to his
+pleaſure, which whoſoever is ſworn to, he can no long<g ref="char:EOLhyphen"/>er for ſhame,
+plead for <hi>Epiſcopacy</hi> upon ſuch grounds as you propoſe in
+your
+former Reaſon, unleſs he renounce that Oath in part as not Obli<g ref="char:EOLhyphen"/>gatory,
+and
+as to ſome parts of it <hi>presbyterians</hi> themſelves, will approve
+it
+ſo far as concerns the maintaining of the <hi>Proteſtant Religion,</hi>
+and
+the Renounciation of <hi>popery.</hi> And I have heard them Applaud the
+Faithful<g ref="char:EOLhyphen"/>neſs of the laſt <hi>parliament,</hi> in keeping this part of
+their Oath: For they know that the chief thing deſigned in the firſt
+overture of it, was only the Security of the <hi>proteſtant Religion,</hi>
+though there were ſuch Additions made to what was intended for that end,
+as
+might weaken, break, or en<g ref="char:EOLhyphen"/>ſnare that party in <hi>parliament</hi> that
+firſt motioned it, being lookt upon as too Jealous of, and Zealous againſt
+<hi>popery,</hi> and as for theſe Additions no wonder they except again
+ſt
+the Obligation of them, ſeeing that even we our ſelves did expreſs ſ
+o
+much of our Averſion thereat at firſt: ſo long as we expected by our
+General clamours againſt it, to procure an Exemption from the Impoſition
+thereof; And as our fear of Looſing our Benefices rather then our
+Inclinations determined us, and the fair Co<g ref="char:EOLhyphen"/>lour of the Explication given by
+the Council, (though alace! what ſig<g ref="char:EOLhyphen"/>nifies the Explication of an Oath, that
+muſt needs be taken in the Ge<g ref="char:EOLhyphen"/>nuin Senſe of the Words,) encouraged us
+to
+ſwear it, ſo doubtleſs the reſt of the Nation ſwore it with great
+Reluctancy, rather from a regard<pb n="18" facs="tcp:66087:10"/>of their Places and
+Intereſts, then GOD and their Conſciences, (which generally at firſt
+accuſed them of Perjury that took it, as being obviouſ<g ref="char:EOLhyphen"/>ly contradictory in
+it ſelf, and in many things contradictory to their Light;) until the
+Generality and frequency of the Guilt abated, the ſenſe of it, and
+therefore cannot be expected, will be very preciſe in ad<g ref="char:EOLhyphen"/>hering to it, to
+whatever confidence many have arrived, for juſtifying it in their
+Diſcourſe (to which length as is every part of it, few have come;) yet the
+remorſe of their Conſciences for it, is not totally extinguiſhed, at
+leaſt is not turned to a ſenſe of its Obligation in every point; and to
+be plain with you, there muſt be an Alteration leſs or more: This is both
+deſigned and deſired by all Ranks of Perſons: They all agree in this,
+tho
+they diſagree in the meaſure of it; And next to the ſettling the
+<hi>Prince of Orange</hi> in the Throne, it is one of the chief deſigns of
+the <hi>Convention,</hi> ſo that your Arguing from the Obligation of the
+<hi>Teſt</hi> is altogether vain, eſpecially ſeeing it is ſo
+unhappily
+framed, that if it bind up from any, it equally binds up from all endeavours of
+any Alteration whatſoever any manner of way, of the eſtabliſhed
+Government either in Church or State; and when upon this account, its
+Obligations will and muſt be trampled upon. It cannot but be very
+unacceptable, to plead no Alte<g ref="char:EOLhyphen"/>ration for fear of Perjury, but truly!
+underſtand not how every Altera<g ref="char:EOLhyphen"/>tion can be accounted Perjury, in reference
+to any Article in the <hi>Teſt,</hi> for that part of it which ſtrikes
+moſt directly againſt any Alteration, is meerly Aſſertory not
+promiſſory, neither does it peremptorly aſſert that there ſhould be
+no Alteration, but only that there is no Obligation by the Covenants to
+endeavour it, and it can hardly be expected that thoſe who have taken the
+<hi>Teſt,</hi> will be determined by any ſenſe of the Obligation of
+the
+Covenants to endeavour an Alteration, nor is it neceſſary, ſeeing
+Scripture, Reaſon and Policy, do all of them together loudly and evidently
+call for it in this preſent Juncture, which is a three<g ref="char:EOLhyphen"/>fold Cord, more
+ſtrongly binding then the <hi>Teſt</hi> can pretend to be, at leaſt in
+this point; So that you ſee how little weight is in your Argu<g ref="char:EOLhyphen"/>ment from the
+<hi>Teſt,</hi> and what it amounts to when duely pondered. I nothing
+doubt
+but the Gentry and Burgeſſes will laugh at you, for pro<g ref="char:EOLhyphen"/>poſing that for
+determining their Conſciences, which all know was mainly impoſed for
+debauching their Conſciences.</p>
+            <p>Your 3. Reaſon contains ſeveral things in it, huddled together
+as if ye would compenſe weight by number, wherein ye ſeem rather to
+deſign the inſnaring the <hi>Presbyterians</hi> to declare their
+Sentiments
+unſeaſonably, about ſome difficult points, then to prove any thing
+againſt them; But they are neither ſtated in ſuch difficult
+Circumſtances, nor ſo void of<pb n="19" facs="tcp:66087:10"/>prudence, but that
+they
+can anſwer you both confidently and cautiouſly to their great Advantage,
+by
+removing the prejudices of many againſt <hi>Presbytry,</hi> becauſe of
+the
+inconveniencies they apprehend muſt attend it.</p>
+            <p>The firſt thing ye alledge is, That <hi>[if presbytry be voted,
+then returns upon you the Solemn League and Covenant, as is not only evident
+from their Gen: Aſſ: &amp;c.]</hi> Sir, ye ſo manifeſtly betray your
+ignorance of the difference betwixt the <hi>National Covenant</hi> and
+<hi>Solemn League,</hi> that thoſe who are better acquaint with the
+Principles and Hiſtory of <hi>presbytry in Scotland,</hi> will account you
+an
+Ignorant Scribler againſt things ye underſtand not; As for the <hi>ſ
+
+olemn
+League,</hi> I know not what ye underſtand by <hi>[the Natural Exigence
+of
+it.]</hi> but ſure <hi>presbyterian Government</hi> might have
+continued in
+<hi>Scotland</hi> a thouſand years without any ſuch League, if
+<hi>England</hi> had not given an Occaſion of it: And it is ſo far from
+being the only conceivable <hi>[foundation for its parity]</hi> that it is but
+a late thing, which was not ſo much as thought upon either at the firſt
+planting of <hi>Presbyterian Government</hi> in <hi>Scotland,</hi> af<g ref="char:EOLhyphen"/>ter
+the
+Reformation, nor for ſeveral years after it was re-eſtabliſhed a<g ref="char:EOLhyphen"/>gain,
+ſo that it is the <hi>National Covenant</hi> which ye would be at; And as
+for
+the other, I ſhall ſhew you what <hi>presbyterians</hi> can ſay, for
+preventing your Feats, when I come to your laſt Reaſon, to which it
+properly be<g ref="char:EOLhyphen"/>lpngs. Its true, the <hi>National Covenant</hi> is almoſt as
+Ancient, as the <hi>Legal Eſtabliſhment</hi> of the <hi>Reformed
+Religion,</hi> and <hi>presbyterian</hi> Government in <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> it
+being about an hundred years ſince it was taken by all in the Nation, at the
+appointment of King <hi>James</hi> the ſixth: And as it was then
+conceived,
+cannot be excepted againſt in any point by any ſound
+<hi>Pro<g ref="char:EOLhyphen"/>teſtant;</hi> being an Obligation againſt <hi>poperie,</hi>
+and all
+its corruptions in Do<g ref="char:EOLhyphen"/>ctrine, Worſhip and Government, ſo that if ye will
+have it even then to be the <hi>foundation of paritie,</hi> ye do
+exceedingly
+wrong our Cauſe, and do in effect juſtifie the Explication annexed to it,
+thereafter ſhewing <hi>E<g ref="char:EOLhyphen"/>piſcopacie</hi> be included in the <hi>popi
+ſh
+Hierarchie</hi> abjured therein, which <hi>pres<g ref="char:EOLhyphen"/>byterians</hi> will tell you
+was not only approven in <hi>parliament</hi> 39, but alſo ſolemnly
+Ratified
+by King <hi>Charles</hi> the Firſt, his own hand writing, when he was
+perſonally preſent in Parliament 41. And they will ask you, how it comes
+to
+paſs, that ye who was juſt now ſo fearful of perjury, in reference to the
+<hi>Teſt?</hi> Should he be ſo fearful for the remembrance of a poor
+Obligation upon the <hi>Church and Nation;</hi> For as to any other Re<g ref="char:EOLhyphen"/>turn
+of
+it upon us, <hi>presbyterians</hi> will not impoſe it again without the
+appoint<g ref="char:EOLhyphen"/>ment of King and parliament, and the general conſent of all Ranks
+in
+the Nation, for they have ſeen the diſadvantage we have been at, in
+<hi>preſsing Conformitie to the Epiſcopal Government,</hi> without
+pains
+taken to pre<g ref="char:EOLhyphen"/>pare the Nation for it; And have learned to be cautious by our
+preci<g ref="char:EOLhyphen"/>pitancy.<pb n="20" facs="tcp:66087:11"/>Nor do <hi>[the preſent proceedings
+of the
+presbyterian preachers]</hi> give any ground to expect the renewing of the
+Covenant, albeit they aggredge the guilt of Complyance with <hi>prelacy</hi>
+from the obligation of the Covenant, as to theſe who own it as contemning
+nothing, but what they are Antece<g ref="char:EOLhyphen"/>dently obliged unto by the Word of GOD.
+And
+this Antecedent obli<g ref="char:EOLhyphen"/>gation to every thing in the <hi>National Covenant,</hi>
+is ſo common &amp; confirm<g ref="char:EOLhyphen"/>ed an Opinion among all <hi>Presbyterians,</hi>
+that they will defy you to ſhew any one of theſe <hi>[manifold impieties
+in
+that Oath]</hi> which ye ſpeak of in Gene<g ref="char:EOLhyphen"/>ral. And ingenuouſly, except
+its
+Abjuration of <hi>prelacy,</hi> I know nothing in it, that any
+<hi>Epiſcopal</hi> will condemn who hath read it; and as for that point, if
+ever it be ordered to be renewed, by appointment of King and Parliament, I
+know
+none of the moſt conſiderable in the Nation, who (ſeeing ſuch
+underſtand both their Duty and Intereſt) will either fear Perjury by taking
+of it, or chooſe Miſery by refuſing it. And I hope the refuſing it
+ſhall never be judged a ſufficient crime, to provoke the Government to
+reduce any ranks of Perſons, far leſs the moſt con<g ref="char:EOLhyphen"/>ſiderable in the
+Nation to miſery. And I find the <hi>Presbyterians</hi> to be Ge<g ref="char:EOLhyphen"/>nerally
+of
+ſuch a cautious Temper, and moderate Diſpoſition, eſpecially the
+leading Men amongſt them, that I nothing doubt, but they will carefully
+avoid
+all ſuch practices, as they find do give any ground of prejudices againſt
+their Predeceſſors, whom they do not deny to have been over ſwayed
+in
+ſomethings to an Extreme by the Biaſs, and Tor<g ref="char:EOLhyphen"/>rent of the time they
+lived
+in.</p>
+            <p>Next you alledge, [<hi>That if the Covenant return, no man can
+have publick place, either in Church or State, but ſuch as ſhall do Penance
+for taking the</hi> Teſt] what <hi>Lax</hi> Reaſoning is this? that if
+Presbytery be Voted the <hi>Covenant</hi> re<g ref="char:EOLhyphen"/>turns, as if there could not be
+a
+Voting for <hi>Presbytry</hi> without voting alſo for renewing the
+<hi>Covenant,</hi> and if the <hi>Covenant</hi> return; no man can have
+publick
+Place without Pennance for the <hi>Teſt:</hi> As if there were no other
+way
+of removing the Scandal of a <hi>General and National Guilt,</hi> but by
+par<g ref="char:EOLhyphen"/>ticular Satisfaction from every Perſon guilty. I have heard ſome of the
+Sober and Learned amongſt them ſay, that the Generality of guilt renders
+a
+particular Satisfaction, neither Seaſonable nor Practicable-Neceſſary nor
+Suitable, and that Cordial Joining in publick Humilia<g ref="char:EOLhyphen"/>tion, and a Zealous
+owning of their Intereſt will remove the Scandal and Satisfie them.</p>
+            <p>You ſay further that, <hi>[A great part of the Laity of the
+Nation muſt be reduced to ſad Straits, both in reference to Conſcience
+and Intereſt]</hi> I know none need to fear that, but theſe who
+undergoes
+<hi>Epiſcopal Government,</hi> have been habituated to ſuch an
+Licentious
+prophanity, that the reſtraining<pb n="21" facs="tcp:66087:11"/>them within the
+<hi>juſt bounds of ſobriety;</hi> may prove <hi>hard</hi> and
+<hi>uneaſie</hi> to their <hi>Lax Conſciences,</hi> which is no great
+Inconveniencie, or theſe who have had all their lively hood by their
+dependance on the Epiſcopal Government and have been undeſervedly
+advanced
+to places of Benefit, Truſt or Ser<g ref="char:EOLhyphen"/>vice, whoſe particular Diſadvantage by
+their loſing their place, is the publick Advantage of the Nation.</p>
+            <p>And finally you inferr, <hi>[That the Regular Clergy will be
+turned out, which will reduce the Church to ſuch amazing hardſhips, that
+the Goſpel ſhall not he preached in three parts of the Kingdom, there not
+being an hundred qua<g ref="char:EOLhyphen"/>lified Presbyterians in Scotland.] Sir,</hi> It ſhould
+be your deſire and mine both, that all the Inſufficient, Scandalous and
+Erroneous among the Clergy were turned out; and their places were Vacant, till
+able Men were provided; rather then filled with ſuch men (who do far more
+obſtruct then promove the Edification of the Church) without the hope of
+being better ſupplied. And alace! I'm affraid that two parts of three of our
+Clergy, may be too juſtly reduced to one or other of theſe three
+Claſſes; So that by my beſt Information, the <hi>Presbyterian
+partie,</hi> if ye join their Miniſters, Preachers, and young Men, Ready for
+the Mini<g ref="char:EOLhyphen"/>ſtry together: With ſuch alſo, as have diverted themſelves
+to
+other Imployments, becauſe of the Diſcouragements of the Times, and
+are
+willing and ready to ſerve the Church, if there were incouragement for the
+Miniſtry, they have moe qualified men amongſt them; then there are
+Sufficient, Sober, and Orthodox Men amongſt our Clergy, ſo that they
+could
+within leſs then a year, furniſh the one half of the Congregations in
+<hi>Scotland.</hi> And when from about an hundred and ſome more, they
+have in
+a year and an halfs ſpace accreaſced and amounted to ſo many,
+without the
+help of Univerſities; We may eaſi<g ref="char:EOLhyphen"/>ly calculate, how ſhort a time will
+increaſe them to the compleat Num<g ref="char:EOLhyphen"/>ber. But I am hopeful that they will
+admit
+any Learned, Sober and Orthodox perſon amongſt us upon very eaſie
+terms;
+our acknowledge<g ref="char:EOLhyphen"/>ing <hi>Presbyterian Government</hi> to be lawful, our
+guilt of
+Separation from them and of taking the Teſt; And I know none of us that
+will
+chooſe rather to be turned out, by refuſing then kept in their places upon
+ac<g ref="char:EOLhyphen"/>cepting ſuch favourable Terms.</p>
+            <p>Your 4. Reaſon is, [<hi>That if Presbytery, be not thus
+eſtabliſhed in its integri<g ref="char:EOLhyphen"/>ty, but all that Alteration turn to a
+Non-Epiſcopacy, and the preſent Presbyters con<g ref="char:EOLhyphen"/>tinue in their Offices;
+Then
+our deplorable Schiſms and Diviſions ſhall continue without a Remedy,
+or
+elſe the Magiſtrate will take upon him the Government of the Church, and
+we
+ſhall have downright</hi> Eraſtianiſm.] <hi>Sir,</hi> The
+fooliſh<g ref="char:EOLhyphen"/>neſs of this Argument is ſo obvious, that I think I may ſpare
+my pains<pb n="22" facs="tcp:66087:12"/>in ſhewing it unto you. One would think it
+the
+voice of a <hi>Presbyterian,</hi> proving the neceſſity of an entire
+Alteration, rather than of an <hi>Epiſcopal</hi> pleading no Alteration at
+all; <hi>Presbyterians</hi> will grant all you ſay, and turn the mouth of
+this Cannon directly againſt your ſelf, by Arguing thus, If
+<hi>Epiſcopacy</hi> be contained, then our deplotable Schiſms and
+Diviſi<g ref="char:EOLhyphen"/>ons ſhall be Remedileſs, alſo we ſhall ſtill have downright
+<hi>Eraſtianiſm,</hi> and how can ye evade the force of this Argument
+of
+your own I ſee not; For it is evident by experience, that we may diſpair of
+ever gaining the <hi>Presbyterians</hi> to a compliance with us; ſeeing
+that
+ſo many years, vio<g ref="char:EOLhyphen"/>lent Perſecution hath rather alienated them from us,
+beyond all hope of either Reconciliation or Accommodation. And it is as
+undeniable, that there is not ſo groſs <hi>Eraſtianiſm</hi> in the
+World, as is eſtabliſhed by Law, and complicated, and tuiſted with the
+<hi>Epiſcopal Government in Scot<g ref="char:EOLhyphen"/>land.</hi> Yea they will further baffle
+you,
+by reaſoning with you thus, If <hi>Presbytery</hi> were eſtabliſhed
+in
+its Integrity, our deplorable Diviſion would eaſily be healed, and we
+ſhould be altogether quite of <hi>Eraſtianiſm,</hi> and ye cannot
+ſhelter your ſelf from this more then the <hi>former Argument;</hi> For
+it
+is more then probable, that few of us would refuſe to comply with
+<hi>Presbytery</hi> when once eſtabliſhed by Law; and it is too much
+to be
+ſuſpected, that the preſent bitterneſs of many of our Clergy again
+ſt
+<hi>Presbyterians</hi> pro<g ref="char:EOLhyphen"/>ceeds, from their Conſciouſneſs to
+themſelves of their inſufficiency, profanity, or Heterodoxy, (and perhaps
+alſo Cruelty,) which makes them deſpair of Admiſſion into the
+Brotherhood of the <hi>Presbyterians.</hi> And it is certain that there are
+no
+Principles contrary to <hi>Eraſtianiſm</hi> more then the
+<hi>Presbyterian;</hi> For they allow not any Eccleſiaſtick Power of
+Juriſdiction to be lodged in any ſingle Perſon though Eccleſiaſtick,
+much leſs Civil; and yet they do neither exeem Church Men from their
+Subjection to the Magiſtrates power as his Subjects, nor the Church from
+the
+Magiſtrates care as her Nurſing Father. Their Prin<g ref="char:EOLhyphen"/>ciples in this point are
+very Rational, for though they deny Miniſters to be as directly ſubjected
+to the Magiſtrate in their Eccleſiaſtick (apa<g ref="char:EOLhyphen"/>city as Miniſters, as in
+their Civil Capacity of Subjects; Yet they aſcribe as much power to him in
+reference to the Church, as any Wiſe and Pious Magiſtrate will require;
+they grant the Magiſtrate hath a reſtitu<g ref="char:EOLhyphen"/>tive power, for reparing a broken
+Church, though not a Conſtitutive of conſtituting the frame of its
+Government, and building ſuch a Fabrick of a Church as he pleaſes; A
+power
+Convocative for calling Church Aſſemblies to meet, for the Government of
+the Church, though not a power Coercive of hindering them to meet at all; A
+power Defenſive<pb n="23" facs="tcp:66087:12"/>of defending the true Religion, and
+the
+Doctrine, Worſhip, Govern<g ref="char:EOLhyphen"/>ment and Diſcipline of the Church, though not
+a
+power Determina<g ref="char:EOLhyphen"/>tive, to determine concerning theſe things at his pleaſ
+ure;
+a power Con<g ref="char:EOLhyphen"/>curſive, to concur by his Civil Sanction with the Determinations
+of the Church, and confirm their Obligation on his Subjects, though not a
+power
+Coactive, to force the Church to follow his Dictates in things
+Eccleſiaſtick; And in a word, they grant him all Power even in
+Eccle<g ref="char:EOLhyphen"/>ſiaſticks that is Cumulative to the Churches Advantage; though they
+de<g ref="char:EOLhyphen"/>ny him to have any Privative power to the Churches prejudice. Whereas
+<hi>Epiſcopacy in Scotland</hi> has no other Baſis but groſs
+<hi>Eraſtianiſm,</hi> ſo that you ſee how much you may be foild
+with
+your own Weapons; And ye may expect a challenge to expreſs the ingenuity
+of
+your fears, (of continued Diviſions and Schiſms, and of downright
+<hi>Eraſtianiſm,</hi>) by quiting the <hi>Epiſcopal</hi> way
+wherein ye
+Act the <hi>Schiſmatick,</hi> in receiding from the ſtanding Laws of
+the
+Church, in compliance with New Civil Laws, and approve <hi>Eraſtianiſm</hi>
+in adhering to the <hi>Teſt.</hi>
+            </p>
+            <p>Your fifth Reaſon is, <hi>[That the Eſtabliſhment of
+Presbytery will have almoſt pernicious Influence on the Proteſtants
+Religion in this Iſland, if ever Popery ſet up its head, &amp;c.] Sir,</hi>
+I confeſs it is more proper for you to ſhew the Inconveniencie that will
+follow, if <hi>Presbytry</hi> be eſtabliſhed, then if not. Yet, I
+ſuſpect you be as unhappy in this as in the former Argument. The greate
+ſt
+Advantage that I find in your Reaſons, is that you touch upon ſome
+things
+concerning which, it is unſeaſonable and dangerous for
+<hi>Presbyterians</hi> fully to expreſs themſelves. But alas! you do
+here
+but touch on that which is the very Sore and Weakeſt Side of
+<hi>Epiſcopacy;</hi> for you cannot be ignorant of the General
+Complaints of,
+and prejudices at our Government. As not only a ſhelter and covert to
+Papiſts: But as Inſtrumental in advancing Popiſh deſigns, partly by
+the
+Ignorance, Profanity, and Arminianiſm aboundoning under it. Diſpoſing
+and
+preparing the Nation for Popery, and partly by its Severity and cruelty towards
+diſſenting <hi>Proteſtants,</hi> to the manifeſt weakning of the
+<hi>Proteſtant In<g ref="char:EOLhyphen"/>tereſt.</hi> And even Envy it ſelf cannot but
+acknowledge the <hi>Presbyterian Government,</hi> hath been abundantly
+both
+ſevere and ſucceſsful againſt <hi>Popery;</hi> and nothing
+blunted and
+ſlackned in its Zeal and Watchfulneſs againſt <hi>Papiſts</hi>
+amits
+all its ſeverities againſt <hi>Epiſcopals,</hi> whereas the <hi>Penal
+Laws</hi> againſt <hi>Papiſts</hi> were brought to ſuch a Deſ
+uetude by
+us, that the moſt threatning dangers from Popery could not awaken us to
+the
+Execution of them, leaſt we ſhould have diverted from perſecuting
+<hi>Pres<g ref="char:EOLhyphen"/>byterians,</hi> by a rigorous Execution of the Laws made in our
+Favours a<g ref="char:EOLhyphen"/>gainſt them, which did ſo intirely take up the Government, that
+not<pb n="24" facs="tcp:66087:13"/>only both Profanity and Popery have been connived
+at,
+but encouraged in ſo far as they were aſſiſting to us, in oppoſing
+and oppreſſing <hi>Presbyte<g ref="char:EOLhyphen"/>rians;</hi> ſo that it will never be
+believed
+that <hi>Presbyterian Government</hi> hath any pernicious Influence upon
+the
+<hi>Proteſtant Religion,</hi> but rather that it hath a powerful Influence
+for ſecuring it againſt <hi>Popery</hi> far more vigorous and Zealous,
+yea,
+and effectual and ſucceſsful then ever the <hi>Epiſcopal</hi> had, at
+leaſt in <hi>Scotland;</hi> And it is evident that the <hi>Presbyterian</hi>
+Intereſt, is every way at preſent more directly oppoſite to the
+<hi>Popiſh Intereſts</hi> then the <hi>Epiſ<g ref="char:EOLhyphen"/>copal</hi> is, which I
+am
+affraid ſhall yet further appear by the carriage and conduct of our party in
+the <hi>Convention,</hi> &amp; that ſo manifeſtly as to highten the
+Nations
+prejudices againſt <hi>Epiſcopacy</hi> more then ever, and make all
+ſober
+<hi>Proteſtants</hi> conclude, that we muſt of neceſſity have
+either
+<hi>Presby<g ref="char:EOLhyphen"/>try</hi> or <hi>Potery,</hi> and truly I cannot otherwiſe
+Judge of
+it, then as an Infa<g ref="char:EOLhyphen"/>tuation, preſaging the ruine of our Intereſt, if the
+Biſhops and the No<g ref="char:EOLhyphen"/>bility, Gentry and Burgeſſes of our Perſwaſion
+ſhall join Iſſue with a Popiſh party againſt the <hi>Prince of
+Orange</hi> his Intereſt: which is ſo inſepa<g ref="char:EOLhyphen"/>rably Interwoven with the
+Reformed Intereſt in <hi>Europe,</hi> and eſpecially in <hi>Britain:</hi>
+That by adhering to the Intereſt of King <hi>James</hi> the 7th. in
+op<g ref="char:EOLhyphen"/>poſition to his, they will unavoidably either give provocation to the
+<hi>Prince of Orange</hi> to abrogate <hi>Epiſcopacy</hi> in
+<hi>Scotland;</hi> in order to the advan<g ref="char:EOLhyphen"/>cing and eſtabliſhing the
+<hi>Reformed Religion,</hi> or elſe give occaſion or ad<g ref="char:EOLhyphen"/>vantage to King
+<hi>James</hi> the 7th. to Redintegrate his Popiſh deſigns with more
+violence and ſucceſs than ever before, to the ruine of all profeſt
+Proteſtants, and eſpecially of us <hi>Epiſcopals,</hi> becauſe we
+have
+the Laws up<g ref="char:EOLhyphen"/>on our ſide, without any more regard to their Zeal and Activity
+for him in his Extreamities, then the King of <hi>France</hi> had for the
+<hi>Proteſtants,</hi> who kept the Crown on his Head; or Queen <hi>Mary</hi>
+of <hi>England,</hi> to the Counties of <hi>Suffolk</hi> and <hi>Northfolk</hi>
+who advanced her to the Crown; or (to come home) then King <hi>Charles</hi> the
+2<hi>d.</hi> had to the <hi>Presbyterians,</hi> who in his greateſt
+extreamities brought him home to <hi>Scotland,</hi> and ſpent their
+blood for
+him at <hi>Worceſter.</hi> And its certain that our refuſing to fol<g ref="char:EOLhyphen"/>low
+<hi>Englands</hi> Example of Gratitude to the <hi>Prince of Orange,</hi>
+will
+neceſſitate this Church and Kingdom; to ſtand upon a bottom more
+different from: Yea, oppoſite unto that of <hi>England,</hi> than if
+<hi>presbytry</hi> were Eſtabliſh<g ref="char:EOLhyphen"/>ed, and will oblige us to ſecure our
+ſelves from Popery, by methods as different from the wiſe Conduct of the
+<hi>Engliſh:</hi> As the binding of <hi>Samſon</hi> with Cords, was
+from
+the <hi>ſhaving the Locks of his Head:</hi> or to come nearer, as there
+was
+betwixt <hi>Englands</hi> and <hi>Scotlands</hi> carriage towards the
+<hi>Duke
+of York;</hi> and at the beſt will be very hard for <hi>Scotland,</hi> ſ
+o
+that your fears [<hi>leaſt the eſtabliſhment of presbytry neceſſ
+itate
+the Churches of</hi> Scotland<pb n="25" facs="tcp:66087:13"/>
+               <hi>and England to ſ
+tand
+upon different Coſtomes which will be hard for</hi> Scotland] are but
+feigned
+and groundleſs, neither ſavouring of a politick Wit, not an Ingenuous
+Spirit: For Church Government is Extrinſick to the Foundation of the
+Reformed
+Religion, and Proteſtants were at a loſs, if their Arguments againſt
+Popery were principally founded upon this Topick, or could not be deduced from
+any other: Presbyterians will tell you. That ouly the <hi>Scriptures are the
+Foundation of the Reformed Re<g ref="char:EOLhyphen"/>ligion, and the common bottom on which all
+the
+Reformed Churches are founded.</hi> But alſo, that the greater part of the
+<hi>Epiſcopal Champions</hi> and <hi>Clergy</hi> ac<g ref="char:EOLhyphen"/>knowledge
+<hi>Epiſcopacy</hi> to have no other Warrand, than an <hi>Eccleſia
+ſtick
+con<g ref="char:EOLhyphen"/>ſtitution,</hi> which is a foundation common to all the <hi>popiſh
+corruptions;</hi> And whereas ye repeat, That <hi>[presbytrie will divide
+Scotland from England, which will open a door to the re-entry of popery;]</hi>
+Are they not united in one com<g ref="char:EOLhyphen"/>mon <hi>Proteſtant intereſt?</hi>
+Except in
+ſo far as the <hi>Clergy of England</hi> are gene<g ref="char:EOLhyphen"/>rally <hi>Arminians,</hi>
+excepting ſome few Learned Men, which I confeſs will oblidge them to
+juſtifie themſelves by different Arguments, not only from <hi>Scotiſh
+presbyterians,</hi> but all the other Reformed Churches, which will be harder
+for <hi>England</hi> than <hi>Scotland.</hi> But that <hi>presbytrie</hi> will
+open a door to the re-entry of <hi>popery,</hi> will never be believed, ſ
+eing
+<hi>presbyterians</hi> at firſt ejected it out of <hi>Scotland;</hi> And
+all
+their time ſecured the Nation from it (more than ever ſince) without the
+Aſſiſtance of <hi>England,</hi> which if ever <hi>Scotiſh
+presbyterians</hi> ſhall need, they may expect it much more from the P:
+<hi>of Orange,</hi> when he ſhal be their King, as well as <hi>Englands.</hi>
+Then even when Queen <hi>Elizabeth</hi> found her ſelf oblidged to give
+it,
+by the Tye of the common <hi>intereſt of Religion,</hi> without any
+Relation
+to them as her <hi>Sub<g ref="char:EOLhyphen"/>jects.</hi> And as for your <hi>Tautolagick
+repetition</hi> again <hi>(that presbytry cannot but alie<g ref="char:EOLhyphen"/>nate the Affections
+of the Church of England from us, which conſidering our weak<g ref="char:EOLhyphen"/>neſs, will
+expoſe us as a prey to the common Enemy)</hi> it is altogether vain and
+fooliſh; For the Church of <hi>England</hi> can never be more aleniated
+in
+their Affections to <hi>presbyterians,</hi> than at this preſent towards
+our
+<hi>Biſhops,</hi> and as their joyning iſſue with <hi>papiſts</hi>
+againſt the <hi>prince of Orange,</hi> hath exceedingly diſcommended
+them
+to it; ſo the <hi>presbyterians</hi> joyning iſſue with him, by their
+Zeal againſt <hi>Popery,</hi> will as much commend them to it. And how
+ever,
+ye may be-aſſured, that the <hi>intereſt of England</hi> will oblidge
+them to aſſiſt <hi>Scotland</hi> in caſe of Danger from
+<hi>popery,</hi> more effectually than their difference from <hi>Scotland</hi>
+in point of <hi>Church Government,</hi> can alienate them, for ye know the
+Maxim;
+<q>Tune tua res agitur paries cum proximus ardet.</q>
+            </p>
+            <p>But many are of Opinion that if <hi>Epiſcopacy</hi> be
+continued, it will per<g ref="char:EOLhyphen"/>petuate ſuch irreconcilable, inteſtine Diviſions
+and Animoſities in <hi>Scot<g ref="char:EOLhyphen"/>land,</hi>
+               <pb n="26" facs="tcp:66087:14"/>as will
+weaken and
+expoſe us a prey to <hi>Popery,</hi> more then any Aſſiſtance
+from
+<hi>England</hi> can ſtrengthen and ſecure us from it, whereas the
+eſtabliſhment of <hi>Presbytery,</hi> would bring us to ſuch an
+intire
+and firm Union, that <hi>Scotland</hi> could ſecure it ſelf from all
+danger
+of Popery, without any Aſſiſtance from <hi>England;</hi> Yea, and
+put us
+in Capacity to Aſſiſt <hi>England</hi> in caſe of danger from Popi
+ſh
+Attempts; which that Church and Kingdom, by the policy of ſome other laud
+may
+too readily be brought into, which I wiſh heartily GOD may prevent: So that
+ye ſee how far ye are out in this Reaſon.</p>
+            <p>Your 6th. Reaſon is ſo weak, that you need no more then ſure
+Infor<g ref="char:EOLhyphen"/>mation from <hi>England,</hi> and impartial conſideration how the
+intereſt of the <hi>Prince and Princeſs of Orange</hi> is ſtated to
+abate
+your Confidence in it. You ſay, [<hi>That to be for presbytery, in this
+Juncture will exceedingly diſoblige
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Princeſs of</hi>
+Orange,
+<hi>whoſe principles are known to all Europe in this matter</hi>] Sir, ye
+are
+greatly miſtaken, for I have ſeen a Letter from a perſon who knows her
+ſentiments; ſhewing that ſhe is not only willing to give Diſſenters
+all ſatisfaction, and if <hi>Epiſcopacy</hi> be continued in
+<hi>England</hi> to her mind, that the Prince be gratified by the Revival of
+<hi>Presbytrie</hi> in <hi>Scotland;</hi> But alſo, that ſhe hath a
+particular Reſentment of the ſeveri<g ref="char:EOLhyphen"/>ties and cruelties exerciſed towards
+the <hi>Presbyterians</hi> in <hi>Scotland,</hi> and has frequently
+declared,
+that ſeing <hi>Presbytrie commenced with the Reformation of this
+Kingdom, has
+been ſolemnly ſworn to, and eſtabliſhed by the National Aſſ
+emblies
+of the Church, and the Sanction of the Civil Laws;</hi> She judgeth it neither
+E<g ref="char:EOLhyphen"/>quitable nor convenient that any other Government ſhould be preſſed
+on
+that People. And we need not doubt, but as the Calamities of
+<hi>Presbyterians</hi> hath begot a compaſſion in her heart towards
+them;
+So the Biſhops Loyal Addreſs to the King, hath much cooled her Affection
+for us, and I wiſh their after Carriage do not heighten her prejudice
+a<g ref="char:EOLhyphen"/>gainſt them. And how ever, ſhe is certainly a Princeſs of that
+Wiſ<g ref="char:EOLhyphen"/>dom, and Zeal for the <hi>Reformed Religion,</hi> that nothing will
+diſpleaſe or diſoblidge her, that is moſt neceſſary and
+convenient
+for the Advance<g ref="char:EOLhyphen"/>ment and Eſtabliſhment of the <hi>Proteſtant Intere
+ſt
+in Scotland;</hi> for which <hi>Presbyterians</hi> can too eaſily ſhew
+the
+Re-eſtabliſhment of <hi>Presbytrie</hi> to be the moſt propet and
+effectual Method, which one of them hath done already, by ſome Reaſons
+which I have ſeen, why in this Juncture <hi>E<g ref="char:EOLhyphen"/>piſcopacy</hi> ſhould
+be
+abrogated and <hi>Presbytrie</hi> Re-eſtabliſhed. Moreover, ſhe is a
+Princeſs of ſuch moderate Inclinations, that nothing can more diſ
+oblidge
+her, then the perſecution of <hi>Proteſtants</hi> by
+<hi>Proteſtants;</hi> And ſhe is not ſo ignorant of our Affairs, but
+that
+ſhe knows that unleſs the <hi>Epiſ<g ref="char:EOLhyphen"/>copal Clergy</hi> can alwayes
+patiently indure a general contempt; or be ſe<g ref="char:EOLhyphen"/>cured<pb n="27" facs="tcp:66087:14"/>
+from
+ever having any influence on the Government. <hi>Epiſcopacy</hi> and
+perſecution in <hi>Scotland</hi> are inſeparable. And for the Prince, I
+know not what Ground ye have for your confidence, to ſay, That <hi>[to be
+for
+Presbytry will diſoblidge him alſo, who has no inclination for the
+Realteration of the Government of the Church as he has now aboundantly
+declared]</hi> You ſeem to be equally deſtitute of Policy, and good
+Intelligence: For as it is known to all the World that he is
+<hi>Presbyterian;</hi> ſo his Declaration for <hi>Scotland,</hi> hath
+inſinuated his inclinations to favour <hi>Presbyterians,</hi> as clearly as
+was convenient for the Time. And though his Wiſdom and Moderation be ſ
+uch
+in expreſſing himſelf, that nothing can be certainly concluded from any
+thing that hath dropt from him, yet it is evident that he will Judge the
+<hi>Presbyterian Party</hi> more worthy of his <hi>confidence</hi>
+&amp; more
+ſuiable objects of his favour, than the <hi>Epiſcopal,</hi> for he will
+doubtleſs expect, that theſe will be more firm and faithful to his
+Intereſt, whoſe reſpect to him is eſtabliſhed by their
+<hi>conſcientious zeal</hi> for the <hi>Reformed Religion</hi> again
+ſt
+<hi>popery,</hi> and who ſhall be chiefly oblidged to him; for reſtoring
+their Former Priviledges; then theſe who are Acted Generally by their
+Intereſts, and have been ſo deeply engaged in Intereſts oppoſite to
+his, and who muſt be in ſome meaſure diſoblidged of neceſſity,
+by
+Moderating and Bal<g ref="char:EOLhyphen"/>lancing their Exorbitant power, and reſcinding the cruel
+Laws made in their Favours. And I am afraid that the <hi>Presbyterians</hi>
+will be more Active and Zealous in advancing him to the Crown of
+<hi>Scotland,</hi> then theſe of our perſwaſion, and thereby oblige
+him
+to favour them as his beſt and ſureſt Friends; &amp; albeit that the
+<hi>prerogatives</hi> which we annex to the Crown be a great Tentation to
+one
+that deſigns <hi>Arbitrary Government,</hi> yet it a<g ref="char:EOLhyphen"/>vails little, with a
+Prince of ſuch a Wiſe and Moderate Temper, who has ſeen his
+Predeceſſors either endangered or ruined, by their Attempting and
+Exerciſing it, and who knows that Kings Soveraignty, and a Peo<g ref="char:EOLhyphen"/>ples
+Liberties, are moſt firmly ſecured, when moſt equally eſtabliſhed
+as
+(notwithſtanding of the prejudices of ſome againſt <hi>Presbytry,</hi> as
+in<g ref="char:EOLhyphen"/>conſiſtent with Monarchy) I confeſs they have been in the peaceable
+times of the <hi>Presbyterian Government,</hi> when King <hi>James</hi> the 6th
+and his Son King <hi>Charles</hi> 1<hi>ſt.</hi> were perſonally pre
+ſent
+in their Parliaments, &amp; had greater advantages for underſtanding their
+own, and their Peoples In<g ref="char:EOLhyphen"/>tereſt, then can be had at a diſtance, and only
+by Information from ſubtile ſelf ſeeking Courtiers. So that you ſee
+how
+far ye are decieved in your expectations from the <hi>Prince</hi> and
+<hi>Princeſs</hi> of <hi>Orange,</hi> who will doubtleſs Endeavour
+to
+Redreſs the Grievances in Church and State, which ye cannot conceive
+poſſible without ſome Alteration, and that greater then ye ſeem to
+apprehend.</p>
+            <p>
+               <pb n="28" facs="tcp:66087:15"/>Your ſeventh Reaſon is, a Reference of
+ſeveral things to the conſide<g ref="char:EOLhyphen"/>ration of all thinking men, as ſufficient
+to determine them to an aver<g ref="char:EOLhyphen"/>ſion at <hi>Presbytry,</hi> wherein ye go
+ſo
+far beyond the bounds of Sobriety, and give ſo great ſuſpicion of
+Calumny, that <hi>Presbyterians</hi> will repreſent you as a
+<hi>Machiavilan,</hi> throwing much dirt upon them only of deſign that
+ſome
+of it may ſtick, [<hi>let all thinking men reflect</hi> (ſay ye) <hi>upon
+the natural temper of presbytry and veiw it in its Tyranical Pragmatick
+meddling and Domineer<g ref="char:EOLhyphen"/>ing effects, which many good men yet living of all
+qualities have ſeverely felt</hi>] <hi>Sir,</hi> I know not well what ye
+mean
+by <hi>[natural temper more then by your natu<g ref="char:EOLhyphen"/>ral Reception and Exigence]</hi>
+but <hi>Presbyterians</hi> will refer their principles to the conſideration
+of all Impartial M<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, whither
+they
+be no more agree<g ref="char:EOLhyphen"/>able to Divine Inſtitution in the Scripture, then
+<hi>Epiſcopacy</hi> though they be not ſo agreeable to the Natural
+Tempers
+of Men; which they grant to be no better in <hi>presbyterians,</hi> then in
+others, yea to have been ſo very <hi>Epiſcopal</hi> in ſome of them,
+as
+to carry them t<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> practices.
+Diſſonant to their principles, and upon that account more hateful then
+worſe practices of Biſhops, becauſe ſuitable, or at leaſt unſ
+utable
+to their principles; for that which would be accounted Gravity, Dexterity,
+Actively and Zeal, in a Biſhop, is accompted Tyrannical, Pragmatical
+meddling
+and Do<g ref="char:EOLhyphen"/>mineering in a <hi>Presbyter.</hi> But theſe are not the proper
+and
+native Effects of <hi>Presbytry,</hi> rather imitations of
+<hi>Epiſcopacie</hi> (proceeding from Mens natu<g ref="char:EOLhyphen"/>ral Infirmitives, and the
+peculiar circumſtances, and torrent of the times they have lived in) contrary
+to their principles. So that in effect all that is quarrelled in
+<hi>Presbyterians</hi> is the <hi>Epiſcopal</hi> practice in ſome of
+them
+un<g ref="char:EOLhyphen"/>der a <hi>Presbyterian</hi> profeſſion, which cannot be juſtly
+charged
+on the whole party; and for leſs on their principles, which have a quite
+contrary ten<g ref="char:EOLhyphen"/>dancy; And ingenuouſly by <hi>Presbytry</hi> will be judged
+by
+few to have ſuch a tendency to Tyrranny over the Church, &amp; Pragmatick
+meddling with the State, as <hi>Epiſcopacy</hi> (as its conſtitute in
+<hi>Scotland</hi>) hath; And they will deſire all Judicious men to conſ
+ider
+whether Idleneſs, Ambition and Avarice in the Clergy; Ignorance, Worldly
+mindedneſs and Profanity among People: Be not the effects of
+<hi>Epiſcopacy;</hi> and indeed ſo manifeſt<g ref="char:EOLhyphen"/>ly have theſe
+abounded
+under <hi>Epiſcopal Government,</hi> that the moſt part will decide
+the
+queſtion in their Favours againſt us. But I cannot won<g ref="char:EOLhyphen"/>der enough, what
+could move you to think <hi>[much more deliberately to write of the
+Hypocriſie, immortality and Anti<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>riſtian genus of the Presbyterian party]</hi> ſeeing theſ
+e
+things may not only be retorted with great Advantage, but cannot juſtly and
+ingenuoſly be charged on the Generality of <hi>presbyteri<g ref="char:EOLhyphen"/>ans;</hi> you
+may
+aſſure your ſelf this will tempt them to draw up a <hi>Black Lybel</hi>
+againſt the Biſhops and Generality of our Clergy, as alas they have
+<pb n="29" facs="tcp:66087:15"/>too large <hi>grounds</hi> for, <hi>recent</hi> in
+the
+<hi>remembrance</hi> of the <hi>Nation;</hi> and they will think it
+enough to
+tell you calmly and ſoberly, that if perſons unſuta<g ref="char:EOLhyphen"/>bleneſs to their
+profeſſion be Hypocriſie, if the groſſeſt of ſcandals and o<g ref="char:EOLhyphen"/>pen
+profanity be immoralitie: And finally, if violent perſecution be the Effect
+and Evidence of an <hi>Antichriſtian genius;</hi> All theſe things are
+more
+applicable to <hi>Epiſcopals</hi> then <hi>presbyterians;</hi> So that
+all
+theſe Reffections di<g ref="char:EOLhyphen"/>rected againſt them, will rebound on our ſelves;
+And
+I am afraid they will ſtick faſter to us then to them; becauſe they not
+only agree to the general Sentiments of all Ranks of people, but their
+Obſervations and Experience of them is late and recent; Whereas the moſ
+t
+part of old Malignants, who were formerly carried away with prejudices
+againſt <hi>presbytry</hi> under the pretences of Loyalty, have turned
+<hi>Fanaticks</hi> ſince, and as perſons convinced of their miſtakes,
+both of the <hi>presbyterian</hi> cauſe &amp; Intereſt which they
+oppoſed, and the <hi>Epiſcopal</hi> which they owned, have thought it
+their
+duty ſo to do, though to the expoſing themſelves to the Reproaches
+and
+other Perſecutions of the <hi>Epiſcopal party,</hi> in their greateſt
+power. And it is indeed very obſervable, that thoſe who inter<g ref="char:EOLhyphen"/>tain
+prejudices againſt the <hi>presbyterian Government</hi> are either Young
+Men
+who never ſaw it in its integrity, and living under a Government con<g ref="char:EOLhyphen"/>trary to
+it, have not heard any other account of it, then of the failings and
+exorbitancies of ſome of that Profeſſion, which are not the native
+product of their Principles, but ſuch exceſſes as the Biaſs of the Age
+and Circumſtances they lived in drove them into, or elſe old Turncoats
+and
+violent Perſecutors, who to juſtifie their change of their Profeſſion
+and their Perſecution of theſe who adhere to it, make it their work to fix
+an Odium on <hi>Presbytery,</hi> and by their frequent impudence in
+repro<g ref="char:EOLhyphen"/>aching it have at laſt deluded themſelves into an obſtinate belief
+of their own invented Calumnies.</p>
+            <p>Your laſt Reaſon is, (<hi>That if the Church of England
+continue as it is, as undoubtedly it will, and Scotland be reduced to
+presbytery, then conſidering the boundleſs and reſtleſs ſpirit of
+presbytery, Scotland will impoſe</hi> ſicut ante <hi>an <g ref="char:V">Ʋ</g>ni<g ref="char:EOLhyphen"/>formity
+on
+England in Doctrine and Diſcipline, which will commence a new Civil War,
+the
+thoughts of which cannot but breed horror in all reaſonable Men.</hi>]
+<hi>Sir,</hi> The only Foundation of theſe your Apprehenſions is the
+<hi>Solemn League</hi> tho you mention it not, which altho it be a touchy
+point, yet <hi>presbyteri<g ref="char:EOLhyphen"/>ans</hi> can abundantly vindicate the ſame, ſ
+o as
+to prevent the fears of all Judicious Men, whom they will deſire to
+conſider that it obliges the members of the <hi>Church of Scotland,</hi>
+to
+no other thing in reference to <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> then what is Antecedently
+their duty towards it, and all other Reformed Churches by virtue of the
+Sympathy and Communion, that<pb n="30" facs="tcp:66087:16"/>every part of the <hi>Catholick
+Viſible Church</hi> ought to have with any other part of it; That its
+Obligation is to be meaſured by the general rules of Judge<g ref="char:EOLhyphen"/>ment, Truth and
+Righteouſneſs; that it is chiefly obligding to oppoſe Popery, and to
+endeavour the peace and happineſs of both Nations; and finally that it
+obligeth no Man to any thing, but what is proper to him in his ſtation, and
+therefore all your fears of a <hi>Civil War</hi> betwixt <hi>England</hi>
+and
+<hi>Scotland</hi> from this ground, are but Melancholick Apprehen<g ref="char:EOLhyphen"/>ſions,
+if
+ſo be that the <hi>Prince of Orange</hi> ſhall be King of <hi>Britain,</hi>
+and ſo long as he and the <hi>Engliſh Parliament</hi> think it
+inexpedient
+to ſeek, and he and the <hi>Scots Parliament</hi> think it inexpedient to
+give aſſiſtance for the alteration of the <hi>Engliſh Church
+Government</hi> from <hi>Epiſcopacy</hi> to <hi>Presbytry.</hi> But
+many fear
+upon more ſolid Grounds that the houſe of Commons in <hi>England</hi> clip
+your Biſhops wings by degrees, as either to rid the Na<g ref="char:EOLhyphen"/>tion of them at
+length
+without the aſſiſtance of <hi>Scotland,</hi> or elſe bring them to
+ſuch a tollerable Mediocrity, as will render them more accep<g ref="char:EOLhyphen"/>table to all the
+<hi>Engliſh</hi> Nation, then a <hi>Civil War</hi> can be ſuppoſ
+ed will
+be to any <hi>Engliſh</hi> Presbyterians, who are ſo ballanced betwixt
+the
+oppoſiti<g ref="char:EOLhyphen"/>on of theſe of the Epiſcopal perſwaſion in the one hand,
+and
+of the In<g ref="char:EOLhyphen"/>dependent, on the other; that there is no party in <hi>England,</hi>
+either more moderate or Cautions when they are.</p>
+            <p>Thus you ſee how weak a Defence of our cauſe theſe your
+Reaſons now appear to be, after they are conſidered, tho with more
+calmneſs and tenderneſs then you can expect from a Presbyterian, who
+ſe
+anſwer to them to your diſgrace and our diſadvantage, I wiſh may be
+prevented by this Friendly freedom of mine with you, and I would adviſe you
+to wait a little longer till there be ſome better product of the Labours of
+your Brethren who are ſtudying this Controverſie, harder then ever in
+order
+to a learned and elaborate Vindication of Epiſcopacy; and Re<g ref="char:EOLhyphen"/>futation of
+Presbytry, to which if this paper can any way be ſubſervient, I allow you
+to communicate it to your Brethren, that they may be the more ſober &amp;
+cautious in mannaging the controverſie, but I pray you let it not come to the
+ſight of any Presbyterian, leaſt they print it to the publick Affront of
+our cauſe, and I diſſwade you as your Friend from the Reſolution
+that I
+hear you are upon of printing your Reaſons, what<g ref="char:EOLhyphen"/>ever emendations you
+make in
+them, for it is an old Maxime in <hi>criſt non movendum,</hi> and the
+Presbyterians modeſt ſilence, amidſt the preſent Advantages they
+have,
+will be more commended then any thing we can writ, for our vindication in the
+dangerous circumſtances that we are in at preſent. And <hi>Sir,</hi> I
+am
+hopeful that you will not think your ſelf diſoblidged by this friendly
+Duty, from</p>
+            <closer>
+               <salute>Sir,</salute>
+               <signed>Your Real Friend and Humble Servant.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:66087:16"/>
+         </div>
+      </body>
+   </text>
+</TEI>
